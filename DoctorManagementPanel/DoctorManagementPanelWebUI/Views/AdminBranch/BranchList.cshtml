@@ -1,0 +1,65 @@
+﻿@model List<ResultBranchDto>
+@{
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+    int count = 0;
+}
+@await Component.InvokeAsync("_AdminLayoutHeadComponentPartial")
+@await Component.InvokeAsync("_TableHeadComponentPartial")
+<!DOCTYPE html>
+<html lang="en">
+<body class="sidebar-mini">
+    <div class="wrapper">
+        <div class="content-wrapper">
+            <!-- Content Header (Page header) -->
+            <section class="content-header">
+                <h1>Kayıtlı Dallar</h1>
+                <ol class="breadcrumb">
+                    <li><a href="#"><i class="fa fa-home"></i> Anasayfa</a></li>
+                    <li class="active"><i class="fa fa-table"></i> Tablolar</li>
+                    <li class="active"><i class="fa fa-user"></i> Kayıtlı Dallar</li>
+                </ol>
+            </section>
+
+            <!-- Main content -->
+            <section class="content container-fluid">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="chart-box">
+                            <h4>Dal Listesi</h4>
+                            <p>Bu kısımda sistemde kayıtlı olan bütün dalları görmektesiniz.</p>
+                            <div class="bs-example" data-example-id="bordered-table">
+                                <table class="table table-bordered">
+                                    <thead>
+                                        <tr>
+                                            <th>#</th>
+                                            <th>Dal Adı</th>
+                                            <th>Güncelle</th>
+                                            <th>Sil</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        @foreach (var item in Model)
+                                        {
+                                            count++;
+                                            <tr>
+                                                <th scope="row">@count</th>
+                                                <td>@item.BranchName</td>
+                                                <td><a href="/AdminBranch/UpdateBranch/@item.BranchID" class="btn btn-success">Güncelle</a></td>
+                                                <td><a href="/AdminBranch/DeleteBranch/@item.BranchID" class="btn btn-danger">Sil</a></td>
+                                            </tr>
+                                        }
+                                    </tbody>
+                                </table>
+                                <a href="/AdminBranch/CreateBranch/" class="btn btn-warning">Yeni Hasta Oluştur</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- content -->
+        </div>
+    </div>
+    @await Component.InvokeAsync("_AdminLayoutScriptComponentPartial")
+    @await Component.InvokeAsync("_TableScriptComponentPartial")
+</body>
+</html>

@@ -1,0 +1,14 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<body class="sidebar-mini">
+    <div class="wrapper">
+        @await Component.InvokeAsync("_DoctorLayoutNavbarComponentPartial")
+        @await Component.InvokeAsync("_DoctorLayoutSidebarComponentPartial")
+        @RenderBody()
+        @await Component.InvokeAsync("_DoctorLayoutFooterComponentPartial")
+    </div>
+</body>
+</html>

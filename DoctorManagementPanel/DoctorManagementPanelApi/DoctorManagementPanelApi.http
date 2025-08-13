@@ -1,0 +1,6 @@
+@DoctorManagementPanelApi_HostAddress = http://localhost:5008
+
+GET {{DoctorManagementPanelApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

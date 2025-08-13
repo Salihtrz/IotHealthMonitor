@@ -1,0 +1,124 @@
+﻿@model DoctorAboutViewModel
+@{
+    Layout = "~/Views/Layout/Index.cshtml";
+}
+<!DOCTYPE html>
+<html lang="en">
+@await Component.InvokeAsync("_LayoutHeadComponentPartial")
+@await Component.InvokeAsync("_LineChartHeadComponentPartial")
+
+<body class="sidebar-mini">
+    <div class="wrapper">
+
+        <!-- Content Wrapper. Contains page content -->
+        <div class="content-wrapper">
+            <!-- Content Header (Page header) -->
+            <section class="content-header">
+                <h1>Hakkımızda</h1>
+                <ol class="breadcrumb">
+                    <li><a href="#"><i class="fa fa-home"></i> Ana Sayfa</a></li>
+                    <li class="active"><i class="fa fa-bullseye"></i> Hakkımızda</li>
+                </ol>
+            </section>
+
+            <!-- Main content -->
+            <section class="content container-fluid">
+                <div class="row">
+                    @foreach (var about in Model.Abouts)
+                    {
+                        <div class="col-lg-12">
+                            <div class="chart-box">
+                                <div class="head-title">
+                                    <h4>@about.Title</h4>
+                                </div>
+                                <p class="m-bot-2" style="font-size:16px;">@about.Description</p>
+                            </div>
+                        </div>
+                    }
+
+                </div>
+            </section>
+            <section class="content container-fluid">
+                <div class="row">
+                    @foreach (var doctor in Model.Doctors)
+                    {
+                        <div class="col-md-6">
+                            <div class="chart-box">
+                                <div class="row">
+                                    <div class="col-md-3">
+                                        <div class="user-img pull-left"><img src="~/Dashboard/html/dist/img/img3.jpg" class="img-circle img-responsive" alt="User Image"> </div>
+                                    </div>
+                                    <div class="col-md-9">
+                                        <div class="mail-contnet">
+                                            <h4>@doctor.DoctorName @doctor.DoctorSurname <span class="desig">- @doctor.BranchName</span></h4>
+                                            <p class="m-bot-2">@doctor.Email</p>
+                                            <h5>@doctor.Phone</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+
+                </div>
+            </section>
+            <!-- content -->
+        </div>
+    </div>
+    <!-- wrapper -->
+    <!-- jQuery -->
+    @await Component.InvokeAsync("_DoctorLayoutScriptComponentPartial")
+    @await Component.InvokeAsync("_LineChartScriptComponentPartial")
+    <script type="text/javascript">
+        (function($) {
+          "use strict";
+        $(document).ready(function () {
+
+            // Build the chart
+            Highcharts.chart('container3', {
+                chart: {
+                    plotBackgroundColor: null,
+                    plotBorderWidth: null,
+                    plotShadow: false,
+                    type: 'pie'
+                },
+                title: {
+                    text: 'Tasks'
+                },
+                tooltip: {
+                    pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+                },
+                plotOptions: {
+                    pie: {
+                        allowPointSelect: true,
+                        cursor: 'pointer',
+                        dataLabels: {
+                            enabled: true
+                        },
+                        showInLegend: true
+                    }
+                },
+                series: [{
+                    name: 'Brands',
+                    colorByPoint: true,
+                    data: [{
+                        name: 'Opened',
+                        y: 56.33
+                    }, {
+                        name: 'Closed',
+                        y: 24.03,
+                        sliced: true,
+                        selected: true
+                    },
+
+
+                     {
+
+                    }]
+                }]
+            });
+        });
+        })(jQuery);
+    </script>
+</body>
+</html>

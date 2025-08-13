@@ -1,0 +1,58 @@
+﻿@model CreateDeviceDto
+@{
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+@await Component.InvokeAsync("_AdminLayoutHeadComponentPartial")
+@await Component.InvokeAsync("_LineChartHeadComponentPartial")
+<!DOCTYPE html>
+<html lang="en">
+<body class="sidebar-mini">
+    <div class="wrapper">
+        <div class="content-wrapper">
+            <!-- Content Header (Page header) -->
+            <section class="content-header">
+                <h1>Cihaz Kayıt Formu</h1>
+                <ol class="breadcrumb">
+                    <li><a href="#"><i class="fa fa-home"></i> Ana Sayfa</a></li>
+                    <li class="active"><i class="fa fa-envelope-o"></i> Form</li>
+                    <li class="active"><i class="fa fa-envelope"></i> Cihaz Kayıt Formu</li>
+                </ol>
+            </section>
+
+            <!-- Main content -->
+            <section class="content container-fluid">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="chart-box">
+                            <h4>Hasta Bilgileri</h4>
+                            <div class="row">
+                                <form asp-action="CreateDevice" asp-controller="AdminDevice" method="post">
+                                    <div class="col-md-6">
+                                        <div class="form-group has-feedback">
+                                            <label class="control-label">Cihaz Adı</label>
+                                            <input type="text" asp-for="DeviceName" class="form-control" placeholder="Cihaz Adı">
+                                            <span class="fa fa-user form-control-feedback" aria-hidden="true"></span>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="form-group has-feedback">
+                                            <label class="control-label">Tanımlı Hasta</label>
+                                            @Html.DropDownListFor(x => x.PatientID, (List<SelectListItem>)ViewBag.Values, new { @class = "form-control", style = "padding: 0 10px 0 10px;" })
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <button type="submit" class="btn btn-success">Kaydet</button>
+                                        <a href="/AdminDevice/DeviceList/" class="btn btn-primary">İptal</a>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- content -->
+        </div>
+    </div>
+    @await Component.InvokeAsync("_AdminLayoutScriptComponentPartial")
+</body>
+</html>

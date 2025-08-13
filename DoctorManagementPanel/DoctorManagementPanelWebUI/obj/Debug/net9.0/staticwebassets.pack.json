@@ -1,0 +1,2185 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\DoctorManagementPanelWebUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DoctorManagementPanelWebUI.nz24eyxuuw.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\help-documentation\\assets\\blueprint-css\\ie.css",
+      "PackagePath": "staticwebassets\\Dashboard\\help-documentation\\assets\\blueprint-css\\ie.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\help-documentation\\assets\\blueprint-css\\plugins\\buttons\\icons\\cross.png",
+      "PackagePath": "staticwebassets\\Dashboard\\help-documentation\\assets\\blueprint-css\\plugins\\buttons\\icons\\cross.png"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\help-documentation\\assets\\blueprint-css\\plugins\\buttons\\icons\\key.png",
+      "PackagePath": "staticwebassets\\Dashboard\\help-documentation\\assets\\blueprint-css\\plugins\\buttons\\icons\\key.png"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\help-documentation\\assets\\blueprint-css\\plugins\\buttons\\icons\\tick.png",
+      "PackagePath": "staticwebassets\\Dashboard\\help-documentation\\assets\\blueprint-css\\plugins\\buttons\\icons\\tick.png"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\help-documentation\\assets\\blueprint-css\\plugins\\buttons\\readme.txt",
+      "PackagePath": "staticwebassets\\Dashboard\\help-documentation\\assets\\blueprint-css\\plugins\\buttons\\readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\help-documentation\\assets\\blueprint-css\\plugins\\buttons\\screen.css",
+      "PackagePath": "staticwebassets\\Dashboard\\help-documentation\\assets\\blueprint-css\\plugins\\buttons\\screen.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\help-documentation\\assets\\blueprint-css\\plugins\\fancy-type\\readme.txt",
+      "PackagePath": "staticwebassets\\Dashboard\\help-documentation\\assets\\blueprint-css\\plugins\\fancy-type\\readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\help-documentation\\assets\\blueprint-css\\plugins\\fancy-type\\screen.css",
+      "PackagePath": "staticwebassets\\Dashboard\\help-documentation\\assets\\blueprint-css\\plugins\\fancy-type\\screen.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\help-documentation\\assets\\blueprint-css\\plugins\\link-icons\\icons\\doc.png",
+      "PackagePath": "staticwebassets\\Dashboard\\help-documentation\\assets\\blueprint-css\\plugins\\link-icons\\icons\\doc.png"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\help-documentation\\assets\\blueprint-css\\plugins\\link-icons\\icons\\email.png",
+      "PackagePath": "staticwebassets\\Dashboard\\help-documentation\\assets\\blueprint-css\\plugins\\link-icons\\icons\\email.png"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\help-documentation\\assets\\blueprint-css\\plugins\\link-icons\\icons\\external.png",
+      "PackagePath": "staticwebassets\\Dashboard\\help-documentation\\assets\\blueprint-css\\plugins\\link-icons\\icons\\external.png"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\help-documentation\\assets\\blueprint-css\\plugins\\link-icons\\icons\\feed.png",
+      "PackagePath": "staticwebassets\\Dashboard\\help-documentation\\assets\\blueprint-css\\plugins\\link-icons\\icons\\feed.png"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\help-documentation\\assets\\blueprint-css\\plugins\\link-icons\\icons\\im.png",
+      "PackagePath": "staticwebassets\\Dashboard\\help-documentation\\assets\\blueprint-css\\plugins\\link-icons\\icons\\im.png"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\help-documentation\\assets\\blueprint-css\\plugins\\link-icons\\icons\\pdf.png",
+      "PackagePath": "staticwebassets\\Dashboard\\help-documentation\\assets\\blueprint-css\\plugins\\link-icons\\icons\\pdf.png"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\help-documentation\\assets\\blueprint-css\\plugins\\link-icons\\icons\\visited.png",
+      "PackagePath": "staticwebassets\\Dashboard\\help-documentation\\assets\\blueprint-css\\plugins\\link-icons\\icons\\visited.png"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\help-documentation\\assets\\blueprint-css\\plugins\\link-icons\\icons\\xls.png",
+      "PackagePath": "staticwebassets\\Dashboard\\help-documentation\\assets\\blueprint-css\\plugins\\link-icons\\icons\\xls.png"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\help-documentation\\assets\\blueprint-css\\plugins\\link-icons\\readme.txt",
+      "PackagePath": "staticwebassets\\Dashboard\\help-documentation\\assets\\blueprint-css\\plugins\\link-icons\\readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\help-documentation\\assets\\blueprint-css\\plugins\\link-icons\\screen.css",
+      "PackagePath": "staticwebassets\\Dashboard\\help-documentation\\assets\\blueprint-css\\plugins\\link-icons\\screen.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\help-documentation\\assets\\blueprint-css\\plugins\\rtl\\readme.txt",
+      "PackagePath": "staticwebassets\\Dashboard\\help-documentation\\assets\\blueprint-css\\plugins\\rtl\\readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\help-documentation\\assets\\blueprint-css\\plugins\\rtl\\screen.css",
+      "PackagePath": "staticwebassets\\Dashboard\\help-documentation\\assets\\blueprint-css\\plugins\\rtl\\screen.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\help-documentation\\assets\\blueprint-css\\print.css",
+      "PackagePath": "staticwebassets\\Dashboard\\help-documentation\\assets\\blueprint-css\\print.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\help-documentation\\assets\\blueprint-css\\screen.css",
+      "PackagePath": "staticwebassets\\Dashboard\\help-documentation\\assets\\blueprint-css\\screen.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\help-documentation\\assets\\blueprint-css\\src\\forms.css",
+      "PackagePath": "staticwebassets\\Dashboard\\help-documentation\\assets\\blueprint-css\\src\\forms.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\help-documentation\\assets\\blueprint-css\\src\\grid.css",
+      "PackagePath": "staticwebassets\\Dashboard\\help-documentation\\assets\\blueprint-css\\src\\grid.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\help-documentation\\assets\\blueprint-css\\src\\grid.png",
+      "PackagePath": "staticwebassets\\Dashboard\\help-documentation\\assets\\blueprint-css\\src\\grid.png"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\help-documentation\\assets\\blueprint-css\\src\\ie.css",
+      "PackagePath": "staticwebassets\\Dashboard\\help-documentation\\assets\\blueprint-css\\src\\ie.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\help-documentation\\assets\\blueprint-css\\src\\print.css",
+      "PackagePath": "staticwebassets\\Dashboard\\help-documentation\\assets\\blueprint-css\\src\\print.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\help-documentation\\assets\\blueprint-css\\src\\reset.css",
+      "PackagePath": "staticwebassets\\Dashboard\\help-documentation\\assets\\blueprint-css\\src\\reset.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\help-documentation\\assets\\blueprint-css\\src\\typography.css",
+      "PackagePath": "staticwebassets\\Dashboard\\help-documentation\\assets\\blueprint-css\\src\\typography.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\help-documentation\\assets\\images\\htmlstructure.png",
+      "PackagePath": "staticwebassets\\Dashboard\\help-documentation\\assets\\images\\htmlstructure.png"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\help-documentation\\index.html",
+      "PackagePath": "staticwebassets\\Dashboard\\help-documentation\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\UI\\404.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\UI\\404.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\UI\\css\\style.css",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\UI\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\UI\\images\\BearWithTelescope.png",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\UI\\images\\BearWithTelescope.png"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\UI\\js\\app.js",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\UI\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\app\\calendar.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\app\\calendar.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\app\\contacts.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\app\\contacts.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\app\\et-line-font\\et-line-font.css",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\app\\et-line-font\\et-line-font.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\app\\et-line-font\\fonts\\et-line.eot",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\app\\et-line-font\\fonts\\et-line.eot"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\app\\et-line-font\\fonts\\et-line.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\app\\et-line-font\\fonts\\et-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\app\\et-line-font\\fonts\\et-line.ttf",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\app\\et-line-font\\fonts\\et-line.ttf"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\app\\et-line-font\\fonts\\et-line.woff",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\app\\et-line-font\\fonts\\et-line.woff"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\app\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\app\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\app\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\app\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\app\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\app\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\app\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\app\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\app\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\app\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\app\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\app\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\app\\gallery.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\app\\gallery.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\app\\invoice.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\app\\invoice.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\app\\project-summary.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\app\\project-summary.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\app\\timeline.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\app\\timeline.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\bootstrap\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\bootstrap\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\bootstrap\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\bootstrap\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\bootstrap\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\bootstrap\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\bootstrap\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\bootstrap\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\bootstrap\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\bootstrap\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\bootstrap\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\bootstrap\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\bootstrap\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\bootstrap\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\bootstrap\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\bootstrap\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\charts\\3d.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\charts\\3d.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\charts\\area.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\charts\\area.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\charts\\bar.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\charts\\bar.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\charts\\bubble.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\charts\\bubble.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\charts\\combinations.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\charts\\combinations.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\charts\\et-line-font\\et-line-font.css",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\charts\\et-line-font\\et-line-font.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\charts\\et-line-font\\fonts\\et-line.eot",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\charts\\et-line-font\\fonts\\et-line.eot"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\charts\\et-line-font\\fonts\\et-line.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\charts\\et-line-font\\fonts\\et-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\charts\\et-line-font\\fonts\\et-line.ttf",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\charts\\et-line-font\\fonts\\et-line.ttf"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\charts\\et-line-font\\fonts\\et-line.woff",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\charts\\et-line-font\\fonts\\et-line.woff"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\charts\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\charts\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\charts\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\charts\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\charts\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\charts\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\charts\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\charts\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\charts\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\charts\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\charts\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\charts\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\charts\\line.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\charts\\line.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\charts\\pie.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\charts\\pie.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\component\\alerts.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\component\\alerts.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\component\\buttons.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\component\\buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\component\\carousel.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\component\\carousel.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\component\\collapse.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\component\\collapse.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\component\\et-line-font\\et-line-font.css",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\component\\et-line-font\\et-line-font.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\component\\et-line-font\\fonts\\et-line.eot",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\component\\et-line-font\\fonts\\et-line.eot"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\component\\et-line-font\\fonts\\et-line.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\component\\et-line-font\\fonts\\et-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\component\\et-line-font\\fonts\\et-line.ttf",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\component\\et-line-font\\fonts\\et-line.ttf"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\component\\et-line-font\\fonts\\et-line.woff",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\component\\et-line-font\\fonts\\et-line.woff"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\component\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\component\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\component\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\component\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\component\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\component\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\component\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\component\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\component\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\component\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\component\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\component\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\component\\listgroup.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\component\\listgroup.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\component\\mediaobjects.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\component\\mediaobjects.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\component\\pagination.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\component\\pagination.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\component\\popovers.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\component\\popovers.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\component\\progress.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\component\\progress.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\component\\tabs.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\component\\tabs.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\component\\tooltips.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\component\\tooltips.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dashboard-2.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dashboard-2.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dashboard-3.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dashboard-3.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\css\\style.css",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\et-line-font\\et-line-font.css",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\et-line-font\\et-line-font.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\et-line-font\\fonts\\et-line.eot",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\et-line-font\\fonts\\et-line.eot"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\et-line-font\\fonts\\et-line.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\et-line-font\\fonts\\et-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\et-line-font\\fonts\\et-line.ttf",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\et-line-font\\fonts\\et-line.ttf"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\et-line-font\\fonts\\et-line.woff",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\et-line-font\\fonts\\et-line.woff"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\body-bg.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\body-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\img1.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\img10.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\img10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\img11.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\img11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\img12.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\img12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\img13.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\img13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\img14.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\img14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\img15.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\img15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\img16.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\img16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\img17.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\img17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\img18.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\img18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\img2.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\img3.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\img4.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\img5.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\img6.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\img7.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\img8.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\img8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\img9.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\img9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\logo-lg.png",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\logo-lg.png"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\logo.png",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\media\\portfolio-1.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\media\\portfolio-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\media\\portfolio-10.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\media\\portfolio-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\media\\portfolio-11.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\media\\portfolio-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\media\\portfolio-12.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\media\\portfolio-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\media\\portfolio-2.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\media\\portfolio-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\media\\portfolio-3.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\media\\portfolio-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\media\\portfolio-4.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\media\\portfolio-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\media\\portfolio-5.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\media\\portfolio-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\media\\portfolio-6.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\media\\portfolio-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\media\\portfolio-7.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\media\\portfolio-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\media\\portfolio-8.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\media\\portfolio-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\media\\portfolio-9.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\media\\portfolio-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\media\\thumb\\thumb1.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\media\\thumb\\thumb1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\media\\thumb\\thumb10.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\media\\thumb\\thumb10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\media\\thumb\\thumb11.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\media\\thumb\\thumb11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\media\\thumb\\thumb12.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\media\\thumb\\thumb12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\media\\thumb\\thumb2.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\media\\thumb\\thumb2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\media\\thumb\\thumb3.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\media\\thumb\\thumb3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\media\\thumb\\thumb4.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\media\\thumb\\thumb4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\media\\thumb\\thumb5.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\media\\thumb\\thumb5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\media\\thumb\\thumb6.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\media\\thumb\\thumb6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\media\\thumb\\thumb7.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\media\\thumb\\thumb7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\media\\thumb\\thumb8.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\media\\thumb\\thumb8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\img\\media\\thumb\\thumb9.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\img\\media\\thumb\\thumb9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\js\\ovio.js",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\js\\ovio.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\weather\\font\\weathericons-regular-webfont.eot",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\weather\\font\\weathericons-regular-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\weather\\font\\weathericons-regular-webfont.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\weather\\font\\weathericons-regular-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\weather\\font\\weathericons-regular-webfont.ttf",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\weather\\font\\weathericons-regular-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\weather\\font\\weathericons-regular-webfont.woff",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\weather\\font\\weathericons-regular-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\weather\\font\\weathericons-regular-webfont.woff2",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\weather\\font\\weathericons-regular-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\weather\\weather-icons-wind.min.css",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\weather\\weather-icons-wind.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\dist\\weather\\weather-icons.min.css",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\dist\\weather\\weather-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\forms\\et-line-font\\et-line-font.css",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\forms\\et-line-font\\et-line-font.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\forms\\et-line-font\\fonts\\et-line.eot",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\forms\\et-line-font\\fonts\\et-line.eot"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\forms\\et-line-font\\fonts\\et-line.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\forms\\et-line-font\\fonts\\et-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\forms\\et-line-font\\fonts\\et-line.ttf",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\forms\\et-line-font\\fonts\\et-line.ttf"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\forms\\et-line-font\\fonts\\et-line.woff",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\forms\\et-line-font\\fonts\\et-line.woff"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\forms\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\forms\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\forms\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\forms\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\forms\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\forms\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\forms\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\forms\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\forms\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\forms\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\forms\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\forms\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\forms\\general-elements.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\forms\\general-elements.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\forms\\layouts.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\forms\\layouts.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\forms\\validation.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\forms\\validation.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\forms\\wizard.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\forms\\wizard.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\index-boxed.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\index-boxed.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\index-collapsed-sidebar.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\index-collapsed-sidebar.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\index-dark.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\index-dark.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\index-light.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\index-light.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\index-rtl.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\index-rtl.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\index-top-nav.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\index-top-nav.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\index.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\maps\\et-line-font\\et-line-font.css",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\maps\\et-line-font\\et-line-font.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\maps\\et-line-font\\fonts\\et-line.eot",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\maps\\et-line-font\\fonts\\et-line.eot"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\maps\\et-line-font\\fonts\\et-line.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\maps\\et-line-font\\fonts\\et-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\maps\\et-line-font\\fonts\\et-line.ttf",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\maps\\et-line-font\\fonts\\et-line.ttf"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\maps\\et-line-font\\fonts\\et-line.woff",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\maps\\et-line-font\\fonts\\et-line.woff"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\maps\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\maps\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\maps\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\maps\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\maps\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\maps\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\maps\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\maps\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\maps\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\maps\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\maps\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\maps\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\maps\\google-maps.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\maps\\google-maps.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\maps\\vector-map.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\maps\\vector-map.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\pages\\coming-soon.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\pages\\coming-soon.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\pages\\et-line-font\\et-line-font.css",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\pages\\et-line-font\\et-line-font.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\pages\\et-line-font\\fonts\\et-line.eot",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\pages\\et-line-font\\fonts\\et-line.eot"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\pages\\et-line-font\\fonts\\et-line.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\pages\\et-line-font\\fonts\\et-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\pages\\et-line-font\\fonts\\et-line.ttf",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\pages\\et-line-font\\fonts\\et-line.ttf"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\pages\\et-line-font\\fonts\\et-line.woff",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\pages\\et-line-font\\fonts\\et-line.woff"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\pages\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\pages\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\pages\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\pages\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\pages\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\pages\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\pages\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\pages\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\pages\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\pages\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\pages\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\pages\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\pages\\forgot-password.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\pages\\forgot-password.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\pages\\login.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\pages\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\pages\\register.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\pages\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\calendar\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\calendar\\fullcalendar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\calendar\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\calendar\\fullcalendar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\calendar\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\calendar\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\calendar\\moment.min.js",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\calendar\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\charts\\3d-chart-functions.js",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\charts\\3d-chart-functions.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\charts\\area-chart-functions.js",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\charts\\area-chart-functions.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\charts\\bar-chart-functions.js",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\charts\\bar-chart-functions.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\charts\\bubble-chart-functions.js",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\charts\\bubble-chart-functions.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\charts\\chart-functions.js",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\charts\\chart-functions.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\charts\\code\\highcharts-3d.js",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\charts\\code\\highcharts-3d.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\charts\\code\\highcharts-more.js",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\charts\\code\\highcharts-more.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\charts\\code\\highcharts.js",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\charts\\code\\highcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\charts\\code\\modules\\exporting.js",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\charts\\code\\modules\\exporting.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\charts\\comb-chart-functions.js",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\charts\\comb-chart-functions.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\charts\\line-chart-functions.js",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\charts\\line-chart-functions.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\charts\\pie-chart-functions.js",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\charts\\pie-chart-functions.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\countdown\\countdown.js",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\countdown\\countdown.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\countdown\\css\\style.css",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\countdown\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\countdown\\custom.js",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\countdown\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\countdown\\img\\bg-slide-1.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\countdown\\img\\bg-slide-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\countdown\\img\\bg-slide-2.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\countdown\\img\\bg-slide-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\countdown\\img\\bg-slide-3.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\countdown\\img\\bg-slide-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\countdown\\img\\loading.GIF",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\countdown\\img\\loading.GIF"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\countdown\\jquery.countdown.js",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\countdown\\jquery.countdown.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\countdown\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\countdown\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\countdown\\simplyCountdown.js",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\countdown\\simplyCountdown.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\countdown\\simplyCountdown.theme.losange.css",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\countdown\\simplyCountdown.theme.losange.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\countdown\\vegas\\images\\loading.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\countdown\\vegas\\images\\loading.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\countdown\\vegas\\jquery.vegas.min.css",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\countdown\\vegas\\jquery.vegas.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\countdown\\vegas\\jquery.vegas.min.js",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\countdown\\vegas\\jquery.vegas.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\countdown\\vegas\\overlays\\15.png",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\countdown\\vegas\\overlays\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\cubeportfolio\\css\\cubeportfolio.css",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\cubeportfolio\\css\\cubeportfolio.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\cubeportfolio\\css\\cubeportfolio.min.css",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\cubeportfolio\\css\\cubeportfolio.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\cubeportfolio\\img\\cbp-loading-popup.gif",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\cubeportfolio\\img\\cbp-loading-popup.gif"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\cubeportfolio\\img\\cbp-loading.gif",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\cubeportfolio\\img\\cbp-loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\cubeportfolio\\img\\cbp-sprite.png",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\cubeportfolio\\img\\cbp-sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\cubeportfolio\\jquery-latest.min.js",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\cubeportfolio\\jquery-latest.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\cubeportfolio\\jquery.cubeportfolio.js",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\cubeportfolio\\jquery.cubeportfolio.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\cubeportfolio\\jquery.cubeportfolio.min.js",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\cubeportfolio\\jquery.cubeportfolio.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\cubeportfolio\\main.js",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\cubeportfolio\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\maps\\jquery.mapael.js",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\maps\\jquery.mapael.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\maps\\world_countries.js",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\maps\\world_countries.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\maps\\world_countries_mercator.js",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\maps\\world_countries_mercator.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\maps\\world_countries_miller.js",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\maps\\world_countries_miller.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\stepform\\jq.stepform.js",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\stepform\\jq.stepform.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\plugins\\tables\\jquery.tablesort.js",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\plugins\\tables\\jquery.tablesort.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\tables\\basic.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\tables\\basic.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\tables\\data.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\tables\\data.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\tables\\et-line-font\\et-line-font.css",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\tables\\et-line-font\\et-line-font.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\tables\\et-line-font\\fonts\\et-line.eot",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\tables\\et-line-font\\fonts\\et-line.eot"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\tables\\et-line-font\\fonts\\et-line.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\tables\\et-line-font\\fonts\\et-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\tables\\et-line-font\\fonts\\et-line.ttf",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\tables\\et-line-font\\fonts\\et-line.ttf"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\tables\\et-line-font\\fonts\\et-line.woff",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\tables\\et-line-font\\fonts\\et-line.woff"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\tables\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\tables\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\tables\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\tables\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\tables\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\tables\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\tables\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\tables\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\tables\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\tables\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\tables\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\tables\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\Dashboard\\html\\widgets.html",
+      "PackagePath": "staticwebassets\\Dashboard\\html\\widgets.html"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\abortcontroller.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\abortcontroller.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\abortcontroller.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\abortcontroller.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\browser-index.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\browser-index.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\browser-index.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\browser-index.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\defaulthttpclient.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\defaulthttpclient.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\defaulthttpclient.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\defaulthttpclient.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\defaultreconnectpolicy.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\defaultreconnectpolicy.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\defaultreconnectpolicy.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\defaultreconnectpolicy.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\errors.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\errors.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\errors.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\errors.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\fetchhttpclient.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\fetchhttpclient.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\fetchhttpclient.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\fetchhttpclient.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\handshakeprotocol.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\handshakeprotocol.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\handshakeprotocol.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\handshakeprotocol.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\headernames.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\headernames.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\headernames.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\headernames.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\httpclient.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\httpclient.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\httpclient.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\httpclient.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\httpconnection.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\httpconnection.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\httpconnection.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\httpconnection.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\hubconnection.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\hubconnection.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\hubconnection.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\hubconnection.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\hubconnectionbuilder.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\hubconnectionbuilder.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\hubconnectionbuilder.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\hubconnectionbuilder.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\iconnection.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\iconnection.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\iconnection.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\iconnection.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\ihttpconnectionoptions.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\ihttpconnectionoptions.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\ihttpconnectionoptions.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\ihttpconnectionoptions.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\ihubprotocol.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\ihubprotocol.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\ihubprotocol.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\ihubprotocol.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\ilogger.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\ilogger.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\ilogger.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\ilogger.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\index.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\index.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\index.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\iretrypolicy.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\iretrypolicy.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\iretrypolicy.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\iretrypolicy.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\itransport.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\itransport.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\itransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\itransport.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\jsonhubprotocol.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\jsonhubprotocol.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\jsonhubprotocol.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\jsonhubprotocol.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\loggers.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\loggers.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\loggers.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\loggers.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\longpollingtransport.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\longpollingtransport.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\longpollingtransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\longpollingtransport.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\polyfills.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\polyfills.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\polyfills.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\polyfills.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\serversenteventstransport.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\serversenteventstransport.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\serversenteventstransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\serversenteventstransport.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\stream.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\stream.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\stream.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\stream.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\subject.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\subject.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\subject.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\subject.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\textmessageformat.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\textmessageformat.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\textmessageformat.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\textmessageformat.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\utils.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\utils.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\utils.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\utils.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\websockettransport.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\websockettransport.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\websockettransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\websockettransport.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\xhrhttpclient.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\xhrhttpclient.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\xhrhttpclient.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\xhrhttpclient.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\abortcontroller.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\abortcontroller.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\abortcontroller.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\abortcontroller.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\abortcontroller.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\abortcontroller.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\browser-index.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\browser-index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\browser-index.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\browser-index.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\browser-index.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\browser-index.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\defaulthttpclient.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\defaulthttpclient.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\defaulthttpclient.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\defaulthttpclient.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\defaulthttpclient.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\defaulthttpclient.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\defaultreconnectpolicy.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\defaultreconnectpolicy.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\defaultreconnectpolicy.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\defaultreconnectpolicy.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\defaultreconnectpolicy.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\defaultreconnectpolicy.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\errors.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\errors.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\errors.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\errors.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\errors.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\errors.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\fetchhttpclient.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\fetchhttpclient.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\fetchhttpclient.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\fetchhttpclient.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\fetchhttpclient.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\fetchhttpclient.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\handshakeprotocol.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\handshakeprotocol.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\handshakeprotocol.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\handshakeprotocol.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\handshakeprotocol.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\handshakeprotocol.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\headernames.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\headernames.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\headernames.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\headernames.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\headernames.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\headernames.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\httpclient.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\httpclient.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\httpclient.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\httpclient.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\httpclient.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\httpclient.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\httpconnection.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\httpconnection.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\httpconnection.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\httpconnection.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\httpconnection.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\httpconnection.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\hubconnection.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\hubconnection.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\hubconnection.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\hubconnection.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\hubconnection.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\hubconnection.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\hubconnectionbuilder.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\hubconnectionbuilder.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\hubconnectionbuilder.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\hubconnectionbuilder.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\hubconnectionbuilder.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\hubconnectionbuilder.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\iconnection.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\iconnection.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\iconnection.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\iconnection.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\iconnection.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\iconnection.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\ihttpconnectionoptions.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\ihttpconnectionoptions.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\ihttpconnectionoptions.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\ihttpconnectionoptions.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\ihttpconnectionoptions.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\ihttpconnectionoptions.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\ihubprotocol.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\ihubprotocol.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\ihubprotocol.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\ihubprotocol.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\ihubprotocol.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\ihubprotocol.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\ilogger.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\ilogger.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\ilogger.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\ilogger.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\ilogger.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\ilogger.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\index.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\index.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\index.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\index.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\iretrypolicy.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\iretrypolicy.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\iretrypolicy.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\iretrypolicy.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\iretrypolicy.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\iretrypolicy.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\itransport.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\itransport.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\itransport.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\itransport.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\itransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\itransport.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\jsonhubprotocol.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\jsonhubprotocol.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\jsonhubprotocol.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\jsonhubprotocol.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\jsonhubprotocol.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\jsonhubprotocol.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\loggers.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\loggers.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\loggers.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\loggers.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\loggers.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\loggers.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\longpollingtransport.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\longpollingtransport.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\longpollingtransport.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\longpollingtransport.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\longpollingtransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\longpollingtransport.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\polyfills.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\polyfills.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\polyfills.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\polyfills.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\polyfills.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\polyfills.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\serversenteventstransport.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\serversenteventstransport.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\serversenteventstransport.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\serversenteventstransport.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\serversenteventstransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\serversenteventstransport.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\stream.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\stream.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\stream.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\stream.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\stream.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\stream.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\subject.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\subject.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\subject.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\subject.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\subject.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\subject.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\textmessageformat.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\textmessageformat.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\textmessageformat.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\textmessageformat.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\textmessageformat.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\textmessageformat.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\utils.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\utils.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\utils.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\utils.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\utils.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\utils.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\websockettransport.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\websockettransport.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\websockettransport.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\websockettransport.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\websockettransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\websockettransport.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\xhrhttpclient.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\xhrhttpclient.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\xhrhttpclient.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\xhrhttpclient.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\xhrhttpclient.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\xhrhttpclient.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\webworker\\signalr.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\webworker\\signalr.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\webworker\\signalr.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\webworker\\signalr.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\webworker\\signalr.min.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\webworker\\signalr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\webworker\\signalr.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\webworker\\signalr.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\package.json",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\readme.md",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\readme.md"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\src\\abortcontroller.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\abortcontroller.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\src\\browser-index.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\browser-index.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\src\\defaulthttpclient.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\defaulthttpclient.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\src\\defaultreconnectpolicy.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\defaultreconnectpolicy.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\src\\errors.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\errors.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\src\\fetchhttpclient.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\fetchhttpclient.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\src\\handshakeprotocol.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\handshakeprotocol.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\src\\headernames.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\headernames.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\src\\httpclient.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\httpclient.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\src\\httpconnection.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\httpconnection.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\src\\hubconnection.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\hubconnection.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\src\\hubconnectionbuilder.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\hubconnectionbuilder.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\src\\iconnection.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\iconnection.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\src\\ihttpconnectionoptions.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\ihttpconnectionoptions.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\src\\ihubprotocol.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\ihubprotocol.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\src\\ilogger.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\ilogger.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\src\\index.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\index.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\src\\iretrypolicy.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\iretrypolicy.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\src\\itransport.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\itransport.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\src\\jsonhubprotocol.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\jsonhubprotocol.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\src\\loggers.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\loggers.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\src\\longpollingtransport.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\longpollingtransport.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\src\\polyfills.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\polyfills.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\src\\serversenteventstransport.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\serversenteventstransport.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\src\\stream.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\stream.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\src\\subject.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\subject.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\src\\textmessageformat.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\textmessageformat.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\src\\third-party-notices.txt",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\third-party-notices.txt"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\src\\utils.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\utils.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\src\\websockettransport.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\websockettransport.ts"
+    },
+    {
+      "Id": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\wwwroot\\lib\\microsoft\\signalr\\src\\xhrhttpclient.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\xhrhttpclient.ts"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.DoctorManagementPanelWebUI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.DoctorManagementPanelWebUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.DoctorManagementPanelWebUI.props",
+      "PackagePath": "build\\DoctorManagementPanelWebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.DoctorManagementPanelWebUI.props",
+      "PackagePath": "buildMultiTargeting\\DoctorManagementPanelWebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.DoctorManagementPanelWebUI.props",
+      "PackagePath": "buildTransitive\\DoctorManagementPanelWebUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,76 @@
+﻿@model List<ResultAboutDto>
+@{
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+    int count = 0;
+}
+@await Component.InvokeAsync("_AdminLayoutHeadComponentPartial")
+@await Component.InvokeAsync("_TableHeadComponentPartial")
+<!DOCTYPE html>
+<html lang="en">
+<body class="sidebar-mini">
+    <div class="wrapper">
+        <div class="content-wrapper">
+            <!-- Content Header (Page header) -->
+            <section class="content-header">
+                <h1>Kayıtlı Hakkımda Yazıları</h1>
+                <ol class="breadcrumb">
+                    <li><a href="#"><i class="fa fa-home"></i> Anasayfa</a></li>
+                    <li class="active"><i class="fa fa-table"></i> Tablolar</li>
+                    <li class="active"><i class="fa fa-user"></i> Kayıtlı Hakkımda Yazıları</li>
+                </ol>
+            </section>
+
+            <!-- Main content -->
+            <section class="content container-fluid">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="chart-box">
+                            <h4>Hakkımda Yazı Listesi</h4>
+                            <p>Bu kısımda sistemde kayıtlı olan bütün hakkımda yazılarını görmektesiniz. 
+                                Sistemde tema bütünlüğünün bozulmaması için yalnızca <strong>bir</strong>
+                                adet hakkımda yazısı seçiniz.
+                            </p>
+                            <div class="bs-example" data-example-id="bordered-table">
+                                <table class="table table-bordered">
+                                    <thead>
+                                        <tr>
+                                            <th>#</th>
+                                            <th>Başlık</th>
+                                            <th>Açıklama</th>
+                                            <th>Durum</th>
+                                            <th>Aktif Yap</th>
+                                            <th>Pasif Yap</th>
+                                            <th>Güncelle</th>
+                                            <th>Sil</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        @foreach (var item in Model)
+                                        {
+                                            count++;
+                                            <tr>
+                                                <th scope="row">@count</th>
+                                                <td>@item.Title</td>
+                                                <td>@item.Description</td>
+                                                <td>@item.Status</td>
+                                                <td><a href="/AdminAbout/changeAboutStatusToTrue/@item.AboutID" class="btn btn-primary">Aktif Yap</a></td>
+                                                <td><a href="/AdminAbout/changeAboutStatusToFalse/@item.AboutID" class="btn btn-info">Pasif Yap</a></td>
+                                                <td><a href="/AdminAbout/UpdateAbout/@item.AboutID" class="btn btn-success">Güncelle</a></td>
+                                                <td><a href="/AdminAbout/DeleteAbout/@item.AboutID" class="btn btn-danger">Sil</a></td>
+                                            </tr>
+                                        }
+                                    </tbody>
+                                </table>
+                                <a href="/AdminAbout/CreateAbout/" class="btn btn-warning">Yeni Hakkımda Yazısı Oluştur</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- content -->
+        </div>
+    </div>
+    @await Component.InvokeAsync("_AdminLayoutScriptComponentPartial")
+    @await Component.InvokeAsync("_TableScriptComponentPartial")
+</body>
+</html>

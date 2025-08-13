@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\C# Dersleri\\DoctorManagementPanel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A862246D-B6FC-484B-8719-3A4CEC1FB214}|DoctorManagementPanelWebUI\\DoctorManagementPanelWebUI.csproj|c:\\users\\muazc\\onedrive\\masa\u00FCst\u00FC\\proje ve \u00E7al\u0131\u015Fmalar\u0131m\\c# dersleri\\doctormanagementpanel\\doctormanagementpanelwebui\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A862246D-B6FC-484B-8719-3A4CEC1FB214}|DoctorManagementPanelWebUI\\DoctorManagementPanelWebUI.csproj|solutionrelative:doctormanagementpanelwebui\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A862246D-B6FC-484B-8719-3A4CEC1FB214}|DoctorManagementPanelWebUI\\DoctorManagementPanelWebUI.csproj|c:\\users\\muazc\\onedrive\\masa\u00FCst\u00FC\\proje ve \u00E7al\u0131\u015Fmalar\u0131m\\c# dersleri\\doctormanagementpanel\\doctormanagementpanelwebui\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A862246D-B6FC-484B-8719-3A4CEC1FB214}|DoctorManagementPanelWebUI\\DoctorManagementPanelWebUI.csproj|solutionrelative:doctormanagementpanelwebui\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94453428-A74B-49E7-B656-3D5108CE170A}|DoctorManagementPanelApi\\DoctorManagementPanelApi.csproj|c:\\users\\muazc\\onedrive\\masa\u00FCst\u00FC\\proje ve \u00E7al\u0131\u015Fmalar\u0131m\\c# dersleri\\doctormanagementpanel\\doctormanagementpanelapi\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94453428-A74B-49E7-B656-3D5108CE170A}|DoctorManagementPanelApi\\DoctorManagementPanelApi.csproj|solutionrelative:doctormanagementpanelapi\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2C80E3-44F1-4408-839B-33A9439A58C1}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\muazc\\onedrive\\masa\u00FCst\u00FC\\proje ve \u00E7al\u0131\u015Fmalar\u0131m\\c# dersleri\\doctormanagementpanel\\dataaccesslayer\\entityframework\\efdevicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2C80E3-44F1-4408-839B-33A9439A58C1}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entityframework\\efdevicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A862246D-B6FC-484B-8719-3A4CEC1FB214}|DoctorManagementPanelWebUI\\DoctorManagementPanelWebUI.csproj|c:\\users\\muazc\\onedrive\\masa\u00FCst\u00FC\\proje ve \u00E7al\u0131\u015Fmalar\u0131m\\c# dersleri\\doctormanagementpanel\\doctormanagementpanelwebui\\views\\doctor\\charts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A862246D-B6FC-484B-8719-3A4CEC1FB214}|DoctorManagementPanelWebUI\\DoctorManagementPanelWebUI.csproj|solutionrelative:doctormanagementpanelwebui\\views\\doctor\\charts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2C80E3-44F1-4408-839B-33A9439A58C1}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\muazc\\onedrive\\masa\u00FCst\u00FC\\proje ve \u00E7al\u0131\u015Fmalar\u0131m\\c# dersleri\\doctormanagementpanel\\dataaccesslayer\\entityframework\\efdoctordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2C80E3-44F1-4408-839B-33A9439A58C1}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entityframework\\efdoctordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\Views\\Doctor\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoctorManagementPanelWebUI\\Views\\Doctor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\Views\\Doctor\\Index.cshtml",
+              "RelativeToolTip": "DoctorManagementPanelWebUI\\Views\\Doctor\\Index.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T17:20:27.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Charts.cshtml",
+              "DocumentMoniker": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\Views\\Doctor\\Charts.cshtml",
+              "RelativeDocumentMoniker": "DoctorManagementPanelWebUI\\Views\\Doctor\\Charts.cshtml",
+              "ToolTip": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\Views\\Doctor\\Charts.cshtml",
+              "RelativeToolTip": "DoctorManagementPanelWebUI\\Views\\Doctor\\Charts.cshtml",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAswHMAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T19:35:42.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EFDeviceDal.cs",
+              "DocumentMoniker": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\C# Dersleri\\DoctorManagementPanel\\DataAccessLayer\\EntityFramework\\EFDeviceDal.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\EntityFramework\\EFDeviceDal.cs",
+              "ToolTip": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\C# Dersleri\\DoctorManagementPanel\\DataAccessLayer\\EntityFramework\\EFDeviceDal.cs",
+              "RelativeToolTip": "DataAccessLayer\\EntityFramework\\EFDeviceDal.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAADwvzcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T19:34:30.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EFDoctorDal.cs",
+              "DocumentMoniker": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\C# Dersleri\\DoctorManagementPanel\\DataAccessLayer\\EntityFramework\\EFDoctorDal.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\EntityFramework\\EFDoctorDal.cs",
+              "ToolTip": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\C# Dersleri\\DoctorManagementPanel\\DataAccessLayer\\EntityFramework\\EFDoctorDal.cs",
+              "RelativeToolTip": "DataAccessLayer\\EntityFramework\\EFDoctorDal.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T19:34:23.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelApi\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "DoctorManagementPanelApi\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelApi\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "DoctorManagementPanelApi\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T19:34:18.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "DoctorManagementPanelWebUI\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\C# Dersleri\\DoctorManagementPanel\\DoctorManagementPanelWebUI\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "DoctorManagementPanelWebUI\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T19:32:54.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

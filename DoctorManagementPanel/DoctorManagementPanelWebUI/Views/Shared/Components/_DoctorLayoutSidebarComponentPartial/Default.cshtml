@@ -1,0 +1,21 @@
+﻿@*_DoctorLayoutSidebarComponentPartial*@
+<aside class="main-sidebar dark-bg">
+    <section class="sidebar">
+        <div class="user-panel black-bg">
+            <div class="pull-left image"> <img src="~/Dashboard/html/dist/img/img1.jpg" class="img-circle" alt="User Image"> </div>
+            <div class="pull-left info">
+                <p>@ViewBag.DoctorName @ViewBag.DoctorSurname</p>
+                <a href="#"><i class="fa fa-circle"></i> Aktif</a>
+            </div>
+        </div>
+        <!-- Sidebar Menu -->
+        <ul class="sidebar-menu" data-widget="tree">
+            <li class="header dark-bg">Menü</li>
+            <li> <a href="/Doctor/Charts/"> <i class="fa fa-dashboard"></i> <span>Grafikler</span></a> </li>
+            <li> <a href="/Doctor/Index/"> <i class="fa fa-user"></i> <span>Profilim</span></a> </li>
+            <li> <a href="/Doctor/PatientList/"> <i class="fa fa-users"></i> <span>Hasta Listesi</span></a> </li>
+            <li> <a href="/About/DoctorAbout/"> <i class="fa fa-users"></i> <span>Hakkımızda</span></a> </li>
+        </ul>
+        <!-- sidebar-menu -->
+    </section>
+</aside>

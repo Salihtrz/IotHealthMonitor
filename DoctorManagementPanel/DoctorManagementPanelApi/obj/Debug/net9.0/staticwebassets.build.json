@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "gFX18UzhlbkNuuq3Pp6LeOMRf+qLcvXy5qpvgFRynzM=",
+  "Source": "DoctorManagementPanelApi",
+  "BasePath": "_content/DoctorManagementPanelApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

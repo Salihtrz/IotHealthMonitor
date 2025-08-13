@@ -1,0 +1,894 @@
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\xhrhttpclient.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\plugins\maps\jquery.mapael.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\forms\wizard.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\loggers.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\jsonhubprotocol.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\plugins\countdown\custom.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\charts\line.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\handshakeprotocol.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\hubconnectionbuilder.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\app\et-line-font\et-line-font.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\plugins\stepform\jq.stepform.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\handshakeprotocol.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\fetchhttpclient.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\dashboard-3.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\plugins\cubeportfolio\main.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\httpclient.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\forms\validation.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\defaulthttpclient.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\httpconnection.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\bootstrap\css\bootstrap-theme.min.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\forms\general-elements.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\bootstrap\js\bootstrap.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\headernames.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\bootstrap\css\bootstrap.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\app\timeline.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\plugins\countdown\vegas\jquery.vegas.min.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\stream.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\textmessageformat.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\itransport.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\xhrhttpclient.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\app\contacts.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\forms\layouts.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\component\buttons.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\errors.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\charts\font-awesome\css\font-awesome.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\plugins\cubeportfolio\jquery-latest.min.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\serversenteventstransport.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\plugins\countdown\simplyCountdown.theme.losange.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\hubconnection.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\hubconnection.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\app\project-summary.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\jquery\dist\jquery.min.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\iretrypolicy.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\ihubprotocol.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\iconnection.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\httpconnection.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\jsonhubprotocol.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\longpollingtransport.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\headernames.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\pages\coming-soon.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\hubconnectionbuilder.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\abortcontroller.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\fetchhttpclient.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\forms\font-awesome\fonts\FontAwesome.otf
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\defaultreconnectpolicy.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\tables\font-awesome\fonts\fontawesome-webfont.svg
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\browser-index.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\websockettransport.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\forms\et-line-font\fonts\et-line.svg
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\ilogger.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\component\progress.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\dist\weather\weather-icons.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\browser-index.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\UI\js\app.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\jquery-validation\LICENSE.md
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\js\site.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\serversenteventstransport.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\xhrhttpclient.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\plugins\tables\jquery.tablesort.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\help-documentation\assets\blueprint-css\src\reset.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\dist\font-awesome\css\font-awesome.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\plugins\charts\code\highcharts-more.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\pages\font-awesome\css\font-awesome.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\loggers.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\component\popovers.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\plugins\countdown\jquery.min.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\maps\font-awesome\fonts\fontawesome-webfont.svg
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\bootstrap\css\bootstrap.min.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\plugins\charts\chart-functions.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\hubconnection.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\itransport.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\httpconnection.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\maps\et-line-font\et-line-font.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\plugins\maps\world_countries.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\textmessageformat.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\widgets.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\forms\et-line-font\et-line-font.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\pages\forgot-password.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\UI\404.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\help-documentation\assets\blueprint-css\src\typography.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\maps\font-awesome\css\font-awesome.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\plugins\charts\line-chart-functions.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\help-documentation\assets\blueprint-css\plugins\link-icons\screen.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\hubconnectionbuilder.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\websockettransport.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\tables\data.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\plugins\countdown\vegas\images\loading.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\index-light.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\errors.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\stream.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\plugins\charts\code\modules\exporting.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\webworker\signalr.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\component\listgroup.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\help-documentation\assets\blueprint-css\plugins\fancy-type\readme.txt
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\serversenteventstransport.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\ihttpconnectionoptions.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\help-documentation\assets\blueprint-css\plugins\rtl\screen.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\pages\login.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\stream.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\browser-index.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\component\mediaobjects.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\utils.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\plugins\charts\code\highcharts.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\charts\font-awesome\fonts\fontawesome-webfont.svg
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\defaulthttpclient.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\plugins\cubeportfolio\jquery.cubeportfolio.min.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\component\carousel.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\plugins\countdown\vegas\jquery.vegas.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\plugins\charts\pie-chart-functions.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\iconnection.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\defaulthttpclient.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\bootstrap\css\bootstrap-theme.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\ilogger.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\utils.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\index.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\charts\area.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\browser\signalr.min.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\help-documentation\assets\blueprint-css\src\ie.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\jquery\dist\jquery.slim.min.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\plugins\countdown\css\style.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\iconnection.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\app\calendar.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\fetchhttpclient.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\index.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\utils.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\component\font-awesome\css\font-awesome.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\webworker\signalr.min.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\app\et-line-font\fonts\et-line.svg
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\hubconnectionbuilder.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\plugins\charts\comb-chart-functions.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\plugins\charts\3d-chart-functions.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\help-documentation\index.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\plugins\charts\area-chart-functions.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\plugins\charts\bar-chart-functions.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\jquery\dist\jquery.slim.min.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\xhrhttpclient.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\browser\signalr.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\tables\basic.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\index-top-nav.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\iretrypolicy.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\browser\signalr.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\polyfills.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\dist\js\jquery.min.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\index-dark.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\headernames.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\httpclient.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\help-documentation\assets\blueprint-css\src\forms.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\tables\et-line-font\fonts\et-line.svg
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\maps\vector-map.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\bootstrap\css\bootstrap-theme.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\serversenteventstransport.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\help-documentation\assets\blueprint-css\plugins\fancy-type\screen.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\pages\register.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\iretrypolicy.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\ihttpconnectionoptions.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\ihubprotocol.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\dist\css\style.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\errors.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\jquery-validation\dist\additional-methods.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\loggers.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\charts\pie.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\tables\et-line-font\et-line-font.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\plugins\calendar\moment.min.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\plugins\charts\bubble-chart-functions.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\headernames.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\dist\weather\font\weathericons-regular-webfont.svg
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\help-documentation\assets\blueprint-css\plugins\link-icons\readme.txt
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\defaultreconnectpolicy.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\longpollingtransport.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\ihubprotocol.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\plugins\maps\world_countries_mercator.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\app\gallery.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\polyfills.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\charts\bubble.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\maps\font-awesome\fonts\FontAwesome.otf
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\component\tooltips.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\css\site.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\maps\google-maps.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\iretrypolicy.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\bootstrap\css\bootstrap.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\help-documentation\assets\blueprint-css\print.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\tables\font-awesome\css\font-awesome.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\plugins\cubeportfolio\css\cubeportfolio.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\ilogger.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\component\font-awesome\fonts\fontawesome-webfont.svg
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\itransport.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\app\font-awesome\fonts\FontAwesome.otf
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\help-documentation\assets\blueprint-css\ie.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\loggers.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\jsonhubprotocol.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\pages\et-line-font\fonts\et-line.svg
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\index-collapsed-sidebar.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\ilogger.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\ihttpconnectionoptions.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\ihubprotocol.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\component\et-line-font\fonts\et-line.svg
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\stream.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\textmessageformat.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\bootstrap\fonts\glyphicons-halflings-regular.svg
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\plugins\charts\code\highcharts-3d.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\plugins\cubeportfolio\css\cubeportfolio.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\charts\bar.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\dist\font-awesome\fonts\FontAwesome.otf
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\maps\et-line-font\fonts\et-line.svg
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\errors.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\subject.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\textmessageformat.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\package.json
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\charts\et-line-font\fonts\et-line.svg
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\pages\font-awesome\fonts\FontAwesome.otf
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\iconnection.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\component\pagination.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\longpollingtransport.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\dist\font-awesome\fonts\fontawesome-webfont.svg
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\jquery\dist\jquery.min.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\jquery\dist\jquery.slim.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\help-documentation\assets\blueprint-css\plugins\buttons\readme.txt
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\browser-index.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\dist\js\ovio.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\component\alerts.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\webworker\signalr.min.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\component\collapse.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\app\font-awesome\css\font-awesome.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\plugins\maps\world_countries_miller.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\plugins\calendar\fullcalendar.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\pages\et-line-font\et-line-font.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\charts\font-awesome\fonts\FontAwesome.otf
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\hubconnection.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\tables\font-awesome\fonts\FontAwesome.otf
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\index.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\readme.md
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\forms\font-awesome\fonts\fontawesome-webfont.svg
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\pages\font-awesome\fonts\fontawesome-webfont.svg
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\webworker\signalr.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\bootstrap\css\bootstrap-theme.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\plugins\countdown\simplyCountdown.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\subject.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\app\font-awesome\fonts\fontawesome-webfont.svg
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\help-documentation\assets\blueprint-css\screen.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\component\font-awesome\fonts\FontAwesome.otf
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\dashboard-2.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\polyfills.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\defaultreconnectpolicy.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\help-documentation\assets\blueprint-css\src\grid.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\abortcontroller.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\bootstrap\css\bootstrap.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\index.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\websockettransport.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\favicon.ico
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\charts\combinations.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\index-boxed.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\plugins\countdown\jquery.countdown.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\dist\et-line-font\fonts\et-line.svg
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\defaulthttpclient.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\app\invoice.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\httpclient.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\browser\signalr.min.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\httpclient.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\help-documentation\assets\blueprint-css\plugins\rtl\readme.txt
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\abortcontroller.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\jsonhubprotocol.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\longpollingtransport.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\help-documentation\assets\blueprint-css\plugins\buttons\screen.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\ihttpconnectionoptions.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\src\third-party-notices.txt
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\index-rtl.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\plugins\calendar\jquery.min.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\bootstrap\js\bootstrap.min.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\httpconnection.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\dist\weather\weather-icons-wind.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\subject.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\subject.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\abortcontroller.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\plugins\calendar\fullcalendar.min.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\dist\et-line-font\et-line-font.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\help-documentation\assets\blueprint-css\src\print.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\plugins\countdown\countdown.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\itransport.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\polyfills.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\component\tabs.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\component\et-line-font\et-line-font.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\handshakeprotocol.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\fetchhttpclient.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\websockettransport.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\utils.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\charts\et-line-font\et-line-font.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\handshakeprotocol.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\plugins\cubeportfolio\jquery.cubeportfolio.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\charts\3d.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\cjs\index.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\microsoft\signalr\dist\esm\defaultreconnectpolicy.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\forms\font-awesome\css\font-awesome.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\wwwroot\Dashboard\html\UI\css\style.css
+wwwroot\css\site.css
+wwwroot\Dashboard\help-documentation\assets\blueprint-css\ie.css
+wwwroot\Dashboard\help-documentation\assets\blueprint-css\plugins\buttons\icons\cross.png
+wwwroot\Dashboard\help-documentation\assets\blueprint-css\plugins\buttons\icons\key.png
+wwwroot\Dashboard\help-documentation\assets\blueprint-css\plugins\buttons\icons\tick.png
+wwwroot\Dashboard\help-documentation\assets\blueprint-css\plugins\buttons\readme.txt
+wwwroot\Dashboard\help-documentation\assets\blueprint-css\plugins\buttons\screen.css
+wwwroot\Dashboard\help-documentation\assets\blueprint-css\plugins\fancy-type\readme.txt
+wwwroot\Dashboard\help-documentation\assets\blueprint-css\plugins\fancy-type\screen.css
+wwwroot\Dashboard\help-documentation\assets\blueprint-css\plugins\link-icons\icons\doc.png
+wwwroot\Dashboard\help-documentation\assets\blueprint-css\plugins\link-icons\icons\email.png
+wwwroot\Dashboard\help-documentation\assets\blueprint-css\plugins\link-icons\icons\external.png
+wwwroot\Dashboard\help-documentation\assets\blueprint-css\plugins\link-icons\icons\feed.png
+wwwroot\Dashboard\help-documentation\assets\blueprint-css\plugins\link-icons\icons\im.png
+wwwroot\Dashboard\help-documentation\assets\blueprint-css\plugins\link-icons\icons\pdf.png
+wwwroot\Dashboard\help-documentation\assets\blueprint-css\plugins\link-icons\icons\visited.png
+wwwroot\Dashboard\help-documentation\assets\blueprint-css\plugins\link-icons\icons\xls.png
+wwwroot\Dashboard\help-documentation\assets\blueprint-css\plugins\link-icons\readme.txt
+wwwroot\Dashboard\help-documentation\assets\blueprint-css\plugins\link-icons\screen.css
+wwwroot\Dashboard\help-documentation\assets\blueprint-css\plugins\rtl\readme.txt
+wwwroot\Dashboard\help-documentation\assets\blueprint-css\plugins\rtl\screen.css
+wwwroot\Dashboard\help-documentation\assets\blueprint-css\print.css
+wwwroot\Dashboard\help-documentation\assets\blueprint-css\screen.css
+wwwroot\Dashboard\help-documentation\assets\blueprint-css\src\forms.css
+wwwroot\Dashboard\help-documentation\assets\blueprint-css\src\grid.css
+wwwroot\Dashboard\help-documentation\assets\blueprint-css\src\grid.png
+wwwroot\Dashboard\help-documentation\assets\blueprint-css\src\ie.css
+wwwroot\Dashboard\help-documentation\assets\blueprint-css\src\print.css
+wwwroot\Dashboard\help-documentation\assets\blueprint-css\src\reset.css
+wwwroot\Dashboard\help-documentation\assets\blueprint-css\src\typography.css
+wwwroot\Dashboard\help-documentation\assets\images\htmlstructure.png
+wwwroot\Dashboard\help-documentation\index.html
+wwwroot\Dashboard\html\app\calendar.html
+wwwroot\Dashboard\html\app\contacts.html
+wwwroot\Dashboard\html\app\et-line-font\et-line-font.css
+wwwroot\Dashboard\html\app\et-line-font\fonts\et-line.eot
+wwwroot\Dashboard\html\app\et-line-font\fonts\et-line.svg
+wwwroot\Dashboard\html\app\et-line-font\fonts\et-line.ttf
+wwwroot\Dashboard\html\app\et-line-font\fonts\et-line.woff
+wwwroot\Dashboard\html\app\font-awesome\css\font-awesome.min.css
+wwwroot\Dashboard\html\app\font-awesome\fonts\FontAwesome.otf
+wwwroot\Dashboard\html\app\font-awesome\fonts\fontawesome-webfont.eot
+wwwroot\Dashboard\html\app\font-awesome\fonts\fontawesome-webfont.svg
+wwwroot\Dashboard\html\app\font-awesome\fonts\fontawesome-webfont.ttf
+wwwroot\Dashboard\html\app\font-awesome\fonts\fontawesome-webfont.woff
+wwwroot\Dashboard\html\app\gallery.html
+wwwroot\Dashboard\html\app\invoice.html
+wwwroot\Dashboard\html\app\project-summary.html
+wwwroot\Dashboard\html\app\timeline.html
+wwwroot\Dashboard\html\bootstrap\css\bootstrap.css
+wwwroot\Dashboard\html\bootstrap\css\bootstrap.css.map
+wwwroot\Dashboard\html\bootstrap\css\bootstrap.min.css
+wwwroot\Dashboard\html\bootstrap\css\bootstrap.min.css.map
+wwwroot\Dashboard\html\bootstrap\css\bootstrap-theme.css
+wwwroot\Dashboard\html\bootstrap\css\bootstrap-theme.css.map
+wwwroot\Dashboard\html\bootstrap\css\bootstrap-theme.min.css
+wwwroot\Dashboard\html\bootstrap\css\bootstrap-theme.min.css.map
+wwwroot\Dashboard\html\bootstrap\fonts\glyphicons-halflings-regular.eot
+wwwroot\Dashboard\html\bootstrap\fonts\glyphicons-halflings-regular.svg
+wwwroot\Dashboard\html\bootstrap\fonts\glyphicons-halflings-regular.ttf
+wwwroot\Dashboard\html\bootstrap\fonts\glyphicons-halflings-regular.woff
+wwwroot\Dashboard\html\bootstrap\fonts\glyphicons-halflings-regular.woff2
+wwwroot\Dashboard\html\bootstrap\js\bootstrap.js
+wwwroot\Dashboard\html\bootstrap\js\bootstrap.min.js
+wwwroot\Dashboard\html\charts\3d.html
+wwwroot\Dashboard\html\charts\area.html
+wwwroot\Dashboard\html\charts\bar.html
+wwwroot\Dashboard\html\charts\bubble.html
+wwwroot\Dashboard\html\charts\combinations.html
+wwwroot\Dashboard\html\charts\et-line-font\et-line-font.css
+wwwroot\Dashboard\html\charts\et-line-font\fonts\et-line.eot
+wwwroot\Dashboard\html\charts\et-line-font\fonts\et-line.svg
+wwwroot\Dashboard\html\charts\et-line-font\fonts\et-line.ttf
+wwwroot\Dashboard\html\charts\et-line-font\fonts\et-line.woff
+wwwroot\Dashboard\html\charts\font-awesome\css\font-awesome.min.css
+wwwroot\Dashboard\html\charts\font-awesome\fonts\FontAwesome.otf
+wwwroot\Dashboard\html\charts\font-awesome\fonts\fontawesome-webfont.eot
+wwwroot\Dashboard\html\charts\font-awesome\fonts\fontawesome-webfont.svg
+wwwroot\Dashboard\html\charts\font-awesome\fonts\fontawesome-webfont.ttf
+wwwroot\Dashboard\html\charts\font-awesome\fonts\fontawesome-webfont.woff
+wwwroot\Dashboard\html\charts\line.html
+wwwroot\Dashboard\html\charts\pie.html
+wwwroot\Dashboard\html\component\alerts.html
+wwwroot\Dashboard\html\component\buttons.html
+wwwroot\Dashboard\html\component\carousel.html
+wwwroot\Dashboard\html\component\collapse.html
+wwwroot\Dashboard\html\component\et-line-font\et-line-font.css
+wwwroot\Dashboard\html\component\et-line-font\fonts\et-line.eot
+wwwroot\Dashboard\html\component\et-line-font\fonts\et-line.svg
+wwwroot\Dashboard\html\component\et-line-font\fonts\et-line.ttf
+wwwroot\Dashboard\html\component\et-line-font\fonts\et-line.woff
+wwwroot\Dashboard\html\component\font-awesome\css\font-awesome.min.css
+wwwroot\Dashboard\html\component\font-awesome\fonts\FontAwesome.otf
+wwwroot\Dashboard\html\component\font-awesome\fonts\fontawesome-webfont.eot
+wwwroot\Dashboard\html\component\font-awesome\fonts\fontawesome-webfont.svg
+wwwroot\Dashboard\html\component\font-awesome\fonts\fontawesome-webfont.ttf
+wwwroot\Dashboard\html\component\font-awesome\fonts\fontawesome-webfont.woff
+wwwroot\Dashboard\html\component\listgroup.html
+wwwroot\Dashboard\html\component\mediaobjects.html
+wwwroot\Dashboard\html\component\pagination.html
+wwwroot\Dashboard\html\component\popovers.html
+wwwroot\Dashboard\html\component\progress.html
+wwwroot\Dashboard\html\component\tabs.html
+wwwroot\Dashboard\html\component\tooltips.html
+wwwroot\Dashboard\html\dashboard-2.html
+wwwroot\Dashboard\html\dashboard-3.html
+wwwroot\Dashboard\html\dist\css\style.css
+wwwroot\Dashboard\html\dist\et-line-font\et-line-font.css
+wwwroot\Dashboard\html\dist\et-line-font\fonts\et-line.eot
+wwwroot\Dashboard\html\dist\et-line-font\fonts\et-line.svg
+wwwroot\Dashboard\html\dist\et-line-font\fonts\et-line.ttf
+wwwroot\Dashboard\html\dist\et-line-font\fonts\et-line.woff
+wwwroot\Dashboard\html\dist\font-awesome\css\font-awesome.min.css
+wwwroot\Dashboard\html\dist\font-awesome\fonts\FontAwesome.otf
+wwwroot\Dashboard\html\dist\font-awesome\fonts\fontawesome-webfont.eot
+wwwroot\Dashboard\html\dist\font-awesome\fonts\fontawesome-webfont.svg
+wwwroot\Dashboard\html\dist\font-awesome\fonts\fontawesome-webfont.ttf
+wwwroot\Dashboard\html\dist\font-awesome\fonts\fontawesome-webfont.woff
+wwwroot\Dashboard\html\dist\img\body-bg.jpg
+wwwroot\Dashboard\html\dist\img\img1.jpg
+wwwroot\Dashboard\html\dist\img\img10.jpg
+wwwroot\Dashboard\html\dist\img\img11.jpg
+wwwroot\Dashboard\html\dist\img\img12.jpg
+wwwroot\Dashboard\html\dist\img\img13.jpg
+wwwroot\Dashboard\html\dist\img\img14.jpg
+wwwroot\Dashboard\html\dist\img\img15.jpg
+wwwroot\Dashboard\html\dist\img\img16.jpg
+wwwroot\Dashboard\html\dist\img\img17.jpg
+wwwroot\Dashboard\html\dist\img\img18.jpg
+wwwroot\Dashboard\html\dist\img\img2.jpg
+wwwroot\Dashboard\html\dist\img\img3.jpg
+wwwroot\Dashboard\html\dist\img\img4.jpg
+wwwroot\Dashboard\html\dist\img\img5.jpg
+wwwroot\Dashboard\html\dist\img\img6.jpg
+wwwroot\Dashboard\html\dist\img\img7.jpg
+wwwroot\Dashboard\html\dist\img\img8.jpg
+wwwroot\Dashboard\html\dist\img\img9.jpg
+wwwroot\Dashboard\html\dist\img\logo.png
+wwwroot\Dashboard\html\dist\img\logo-lg.png
+wwwroot\Dashboard\html\dist\img\media\portfolio-1.jpg
+wwwroot\Dashboard\html\dist\img\media\portfolio-10.jpg
+wwwroot\Dashboard\html\dist\img\media\portfolio-11.jpg
+wwwroot\Dashboard\html\dist\img\media\portfolio-12.jpg
+wwwroot\Dashboard\html\dist\img\media\portfolio-2.jpg
+wwwroot\Dashboard\html\dist\img\media\portfolio-3.jpg
+wwwroot\Dashboard\html\dist\img\media\portfolio-4.jpg
+wwwroot\Dashboard\html\dist\img\media\portfolio-5.jpg
+wwwroot\Dashboard\html\dist\img\media\portfolio-6.jpg
+wwwroot\Dashboard\html\dist\img\media\portfolio-7.jpg
+wwwroot\Dashboard\html\dist\img\media\portfolio-8.jpg
+wwwroot\Dashboard\html\dist\img\media\portfolio-9.jpg
+wwwroot\Dashboard\html\dist\img\media\thumb\thumb1.jpg
+wwwroot\Dashboard\html\dist\img\media\thumb\thumb10.jpg
+wwwroot\Dashboard\html\dist\img\media\thumb\thumb11.jpg
+wwwroot\Dashboard\html\dist\img\media\thumb\thumb12.jpg
+wwwroot\Dashboard\html\dist\img\media\thumb\thumb2.jpg
+wwwroot\Dashboard\html\dist\img\media\thumb\thumb3.jpg
+wwwroot\Dashboard\html\dist\img\media\thumb\thumb4.jpg
+wwwroot\Dashboard\html\dist\img\media\thumb\thumb5.jpg
+wwwroot\Dashboard\html\dist\img\media\thumb\thumb6.jpg
+wwwroot\Dashboard\html\dist\img\media\thumb\thumb7.jpg
+wwwroot\Dashboard\html\dist\img\media\thumb\thumb8.jpg
+wwwroot\Dashboard\html\dist\img\media\thumb\thumb9.jpg
+wwwroot\Dashboard\html\dist\js\jquery.min.js
+wwwroot\Dashboard\html\dist\js\ovio.js
+wwwroot\Dashboard\html\dist\weather\font\weathericons-regular-webfont.eot
+wwwroot\Dashboard\html\dist\weather\font\weathericons-regular-webfont.svg
+wwwroot\Dashboard\html\dist\weather\font\weathericons-regular-webfont.ttf
+wwwroot\Dashboard\html\dist\weather\font\weathericons-regular-webfont.woff
+wwwroot\Dashboard\html\dist\weather\font\weathericons-regular-webfont.woff2
+wwwroot\Dashboard\html\dist\weather\weather-icons.min.css
+wwwroot\Dashboard\html\dist\weather\weather-icons-wind.min.css
+wwwroot\Dashboard\html\forms\et-line-font\et-line-font.css
+wwwroot\Dashboard\html\forms\et-line-font\fonts\et-line.eot
+wwwroot\Dashboard\html\forms\et-line-font\fonts\et-line.svg
+wwwroot\Dashboard\html\forms\et-line-font\fonts\et-line.ttf
+wwwroot\Dashboard\html\forms\et-line-font\fonts\et-line.woff
+wwwroot\Dashboard\html\forms\font-awesome\css\font-awesome.min.css
+wwwroot\Dashboard\html\forms\font-awesome\fonts\FontAwesome.otf
+wwwroot\Dashboard\html\forms\font-awesome\fonts\fontawesome-webfont.eot
+wwwroot\Dashboard\html\forms\font-awesome\fonts\fontawesome-webfont.svg
+wwwroot\Dashboard\html\forms\font-awesome\fonts\fontawesome-webfont.ttf
+wwwroot\Dashboard\html\forms\font-awesome\fonts\fontawesome-webfont.woff
+wwwroot\Dashboard\html\forms\general-elements.html
+wwwroot\Dashboard\html\forms\layouts.html
+wwwroot\Dashboard\html\forms\validation.html
+wwwroot\Dashboard\html\forms\wizard.html
+wwwroot\Dashboard\html\index.html
+wwwroot\Dashboard\html\index-boxed.html
+wwwroot\Dashboard\html\index-collapsed-sidebar.html
+wwwroot\Dashboard\html\index-dark.html
+wwwroot\Dashboard\html\index-light.html
+wwwroot\Dashboard\html\index-rtl.html
+wwwroot\Dashboard\html\index-top-nav.html
+wwwroot\Dashboard\html\maps\et-line-font\et-line-font.css
+wwwroot\Dashboard\html\maps\et-line-font\fonts\et-line.eot
+wwwroot\Dashboard\html\maps\et-line-font\fonts\et-line.svg
+wwwroot\Dashboard\html\maps\et-line-font\fonts\et-line.ttf
+wwwroot\Dashboard\html\maps\et-line-font\fonts\et-line.woff
+wwwroot\Dashboard\html\maps\font-awesome\css\font-awesome.min.css
+wwwroot\Dashboard\html\maps\font-awesome\fonts\FontAwesome.otf
+wwwroot\Dashboard\html\maps\font-awesome\fonts\fontawesome-webfont.eot
+wwwroot\Dashboard\html\maps\font-awesome\fonts\fontawesome-webfont.svg
+wwwroot\Dashboard\html\maps\font-awesome\fonts\fontawesome-webfont.ttf
+wwwroot\Dashboard\html\maps\font-awesome\fonts\fontawesome-webfont.woff
+wwwroot\Dashboard\html\maps\google-maps.html
+wwwroot\Dashboard\html\maps\vector-map.html
+wwwroot\Dashboard\html\pages\coming-soon.html
+wwwroot\Dashboard\html\pages\et-line-font\et-line-font.css
+wwwroot\Dashboard\html\pages\et-line-font\fonts\et-line.eot
+wwwroot\Dashboard\html\pages\et-line-font\fonts\et-line.svg
+wwwroot\Dashboard\html\pages\et-line-font\fonts\et-line.ttf
+wwwroot\Dashboard\html\pages\et-line-font\fonts\et-line.woff
+wwwroot\Dashboard\html\pages\font-awesome\css\font-awesome.min.css
+wwwroot\Dashboard\html\pages\font-awesome\fonts\FontAwesome.otf
+wwwroot\Dashboard\html\pages\font-awesome\fonts\fontawesome-webfont.eot
+wwwroot\Dashboard\html\pages\font-awesome\fonts\fontawesome-webfont.svg
+wwwroot\Dashboard\html\pages\font-awesome\fonts\fontawesome-webfont.ttf
+wwwroot\Dashboard\html\pages\font-awesome\fonts\fontawesome-webfont.woff
+wwwroot\Dashboard\html\pages\forgot-password.html
+wwwroot\Dashboard\html\pages\login.html
+wwwroot\Dashboard\html\pages\register.html
+wwwroot\Dashboard\html\plugins\calendar\fullcalendar.min.css
+wwwroot\Dashboard\html\plugins\calendar\fullcalendar.min.js
+wwwroot\Dashboard\html\plugins\calendar\jquery.min.js
+wwwroot\Dashboard\html\plugins\calendar\moment.min.js
+wwwroot\Dashboard\html\plugins\charts\3d-chart-functions.js
+wwwroot\Dashboard\html\plugins\charts\area-chart-functions.js
+wwwroot\Dashboard\html\plugins\charts\bar-chart-functions.js
+wwwroot\Dashboard\html\plugins\charts\bubble-chart-functions.js
+wwwroot\Dashboard\html\plugins\charts\chart-functions.js
+wwwroot\Dashboard\html\plugins\charts\code\highcharts.js
+wwwroot\Dashboard\html\plugins\charts\code\highcharts-3d.js
+wwwroot\Dashboard\html\plugins\charts\code\highcharts-more.js
+wwwroot\Dashboard\html\plugins\charts\code\modules\exporting.js
+wwwroot\Dashboard\html\plugins\charts\comb-chart-functions.js
+wwwroot\Dashboard\html\plugins\charts\line-chart-functions.js
+wwwroot\Dashboard\html\plugins\charts\pie-chart-functions.js
+wwwroot\Dashboard\html\plugins\countdown\countdown.js
+wwwroot\Dashboard\html\plugins\countdown\css\style.css
+wwwroot\Dashboard\html\plugins\countdown\custom.js
+wwwroot\Dashboard\html\plugins\countdown\img\bg-slide-1.jpg
+wwwroot\Dashboard\html\plugins\countdown\img\bg-slide-2.jpg
+wwwroot\Dashboard\html\plugins\countdown\img\bg-slide-3.jpg
+wwwroot\Dashboard\html\plugins\countdown\img\loading.GIF
+wwwroot\Dashboard\html\plugins\countdown\jquery.countdown.js
+wwwroot\Dashboard\html\plugins\countdown\jquery.min.js
+wwwroot\Dashboard\html\plugins\countdown\simplyCountdown.js
+wwwroot\Dashboard\html\plugins\countdown\simplyCountdown.theme.losange.css
+wwwroot\Dashboard\html\plugins\countdown\vegas\images\loading.html
+wwwroot\Dashboard\html\plugins\countdown\vegas\jquery.vegas.min.css
+wwwroot\Dashboard\html\plugins\countdown\vegas\jquery.vegas.min.js
+wwwroot\Dashboard\html\plugins\countdown\vegas\overlays\15.png
+wwwroot\Dashboard\html\plugins\cubeportfolio\css\cubeportfolio.css
+wwwroot\Dashboard\html\plugins\cubeportfolio\css\cubeportfolio.min.css
+wwwroot\Dashboard\html\plugins\cubeportfolio\img\cbp-loading.gif
+wwwroot\Dashboard\html\plugins\cubeportfolio\img\cbp-loading-popup.gif
+wwwroot\Dashboard\html\plugins\cubeportfolio\img\cbp-sprite.png
+wwwroot\Dashboard\html\plugins\cubeportfolio\jquery.cubeportfolio.js
+wwwroot\Dashboard\html\plugins\cubeportfolio\jquery.cubeportfolio.min.js
+wwwroot\Dashboard\html\plugins\cubeportfolio\jquery-latest.min.js
+wwwroot\Dashboard\html\plugins\cubeportfolio\main.js
+wwwroot\Dashboard\html\plugins\maps\jquery.mapael.js
+wwwroot\Dashboard\html\plugins\maps\world_countries.js
+wwwroot\Dashboard\html\plugins\maps\world_countries_mercator.js
+wwwroot\Dashboard\html\plugins\maps\world_countries_miller.js
+wwwroot\Dashboard\html\plugins\stepform\jq.stepform.js
+wwwroot\Dashboard\html\plugins\tables\jquery.tablesort.js
+wwwroot\Dashboard\html\tables\basic.html
+wwwroot\Dashboard\html\tables\data.html
+wwwroot\Dashboard\html\tables\et-line-font\et-line-font.css
+wwwroot\Dashboard\html\tables\et-line-font\fonts\et-line.eot
+wwwroot\Dashboard\html\tables\et-line-font\fonts\et-line.svg
+wwwroot\Dashboard\html\tables\et-line-font\fonts\et-line.ttf
+wwwroot\Dashboard\html\tables\et-line-font\fonts\et-line.woff
+wwwroot\Dashboard\html\tables\font-awesome\css\font-awesome.min.css
+wwwroot\Dashboard\html\tables\font-awesome\fonts\FontAwesome.otf
+wwwroot\Dashboard\html\tables\font-awesome\fonts\fontawesome-webfont.eot
+wwwroot\Dashboard\html\tables\font-awesome\fonts\fontawesome-webfont.svg
+wwwroot\Dashboard\html\tables\font-awesome\fonts\fontawesome-webfont.ttf
+wwwroot\Dashboard\html\tables\font-awesome\fonts\fontawesome-webfont.woff
+wwwroot\Dashboard\html\UI\404.html
+wwwroot\Dashboard\html\UI\css\style.css
+wwwroot\Dashboard\html\UI\images\BearWithTelescope.png
+wwwroot\Dashboard\html\UI\js\app.js
+wwwroot\Dashboard\html\widgets.html
+wwwroot\favicon.ico
+wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\lib\microsoft\signalr\dist\browser\signalr.js
+wwwroot\lib\microsoft\signalr\dist\browser\signalr.js.map
+wwwroot\lib\microsoft\signalr\dist\browser\signalr.min.js
+wwwroot\lib\microsoft\signalr\dist\browser\signalr.min.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\abortcontroller.js
+wwwroot\lib\microsoft\signalr\dist\cjs\abortcontroller.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\browser-index.js
+wwwroot\lib\microsoft\signalr\dist\cjs\browser-index.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\defaulthttpclient.js
+wwwroot\lib\microsoft\signalr\dist\cjs\defaulthttpclient.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\defaultreconnectpolicy.js
+wwwroot\lib\microsoft\signalr\dist\cjs\defaultreconnectpolicy.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\errors.js
+wwwroot\lib\microsoft\signalr\dist\cjs\errors.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\fetchhttpclient.js
+wwwroot\lib\microsoft\signalr\dist\cjs\fetchhttpclient.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\handshakeprotocol.js
+wwwroot\lib\microsoft\signalr\dist\cjs\handshakeprotocol.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\headernames.js
+wwwroot\lib\microsoft\signalr\dist\cjs\headernames.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\httpclient.js
+wwwroot\lib\microsoft\signalr\dist\cjs\httpclient.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\httpconnection.js
+wwwroot\lib\microsoft\signalr\dist\cjs\httpconnection.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\hubconnection.js
+wwwroot\lib\microsoft\signalr\dist\cjs\hubconnection.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\hubconnectionbuilder.js
+wwwroot\lib\microsoft\signalr\dist\cjs\hubconnectionbuilder.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\iconnection.js
+wwwroot\lib\microsoft\signalr\dist\cjs\iconnection.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\ihttpconnectionoptions.js
+wwwroot\lib\microsoft\signalr\dist\cjs\ihttpconnectionoptions.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\ihubprotocol.js
+wwwroot\lib\microsoft\signalr\dist\cjs\ihubprotocol.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\ilogger.js
+wwwroot\lib\microsoft\signalr\dist\cjs\ilogger.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\index.js
+wwwroot\lib\microsoft\signalr\dist\cjs\index.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\iretrypolicy.js
+wwwroot\lib\microsoft\signalr\dist\cjs\iretrypolicy.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\itransport.js
+wwwroot\lib\microsoft\signalr\dist\cjs\itransport.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\jsonhubprotocol.js
+wwwroot\lib\microsoft\signalr\dist\cjs\jsonhubprotocol.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\loggers.js
+wwwroot\lib\microsoft\signalr\dist\cjs\loggers.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\longpollingtransport.js
+wwwroot\lib\microsoft\signalr\dist\cjs\longpollingtransport.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\polyfills.js
+wwwroot\lib\microsoft\signalr\dist\cjs\polyfills.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\serversenteventstransport.js
+wwwroot\lib\microsoft\signalr\dist\cjs\serversenteventstransport.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\stream.js
+wwwroot\lib\microsoft\signalr\dist\cjs\stream.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\subject.js
+wwwroot\lib\microsoft\signalr\dist\cjs\subject.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\textmessageformat.js
+wwwroot\lib\microsoft\signalr\dist\cjs\textmessageformat.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\utils.js
+wwwroot\lib\microsoft\signalr\dist\cjs\utils.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\websockettransport.js
+wwwroot\lib\microsoft\signalr\dist\cjs\websockettransport.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\xhrhttpclient.js
+wwwroot\lib\microsoft\signalr\dist\cjs\xhrhttpclient.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\abortcontroller.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\abortcontroller.js
+wwwroot\lib\microsoft\signalr\dist\esm\abortcontroller.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\browser-index.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\browser-index.js
+wwwroot\lib\microsoft\signalr\dist\esm\browser-index.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\defaulthttpclient.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\defaulthttpclient.js
+wwwroot\lib\microsoft\signalr\dist\esm\defaulthttpclient.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\defaultreconnectpolicy.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\defaultreconnectpolicy.js
+wwwroot\lib\microsoft\signalr\dist\esm\defaultreconnectpolicy.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\errors.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\errors.js
+wwwroot\lib\microsoft\signalr\dist\esm\errors.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\fetchhttpclient.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\fetchhttpclient.js
+wwwroot\lib\microsoft\signalr\dist\esm\fetchhttpclient.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\handshakeprotocol.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\handshakeprotocol.js
+wwwroot\lib\microsoft\signalr\dist\esm\handshakeprotocol.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\headernames.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\headernames.js
+wwwroot\lib\microsoft\signalr\dist\esm\headernames.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\httpclient.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\httpclient.js
+wwwroot\lib\microsoft\signalr\dist\esm\httpclient.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\httpconnection.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\httpconnection.js
+wwwroot\lib\microsoft\signalr\dist\esm\httpconnection.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\hubconnection.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\hubconnection.js
+wwwroot\lib\microsoft\signalr\dist\esm\hubconnection.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\hubconnectionbuilder.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\hubconnectionbuilder.js
+wwwroot\lib\microsoft\signalr\dist\esm\hubconnectionbuilder.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\iconnection.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\iconnection.js
+wwwroot\lib\microsoft\signalr\dist\esm\iconnection.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\ihttpconnectionoptions.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\ihttpconnectionoptions.js
+wwwroot\lib\microsoft\signalr\dist\esm\ihttpconnectionoptions.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\ihubprotocol.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\ihubprotocol.js
+wwwroot\lib\microsoft\signalr\dist\esm\ihubprotocol.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\ilogger.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\ilogger.js
+wwwroot\lib\microsoft\signalr\dist\esm\ilogger.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\index.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\index.js
+wwwroot\lib\microsoft\signalr\dist\esm\index.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\iretrypolicy.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\iretrypolicy.js
+wwwroot\lib\microsoft\signalr\dist\esm\iretrypolicy.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\itransport.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\itransport.js
+wwwroot\lib\microsoft\signalr\dist\esm\itransport.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\jsonhubprotocol.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\jsonhubprotocol.js
+wwwroot\lib\microsoft\signalr\dist\esm\jsonhubprotocol.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\loggers.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\loggers.js
+wwwroot\lib\microsoft\signalr\dist\esm\loggers.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\longpollingtransport.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\longpollingtransport.js
+wwwroot\lib\microsoft\signalr\dist\esm\longpollingtransport.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\polyfills.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\polyfills.js
+wwwroot\lib\microsoft\signalr\dist\esm\polyfills.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\serversenteventstransport.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\serversenteventstransport.js
+wwwroot\lib\microsoft\signalr\dist\esm\serversenteventstransport.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\stream.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\stream.js
+wwwroot\lib\microsoft\signalr\dist\esm\stream.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\subject.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\subject.js
+wwwroot\lib\microsoft\signalr\dist\esm\subject.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\textmessageformat.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\textmessageformat.js
+wwwroot\lib\microsoft\signalr\dist\esm\textmessageformat.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\utils.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\utils.js
+wwwroot\lib\microsoft\signalr\dist\esm\utils.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\websockettransport.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\websockettransport.js
+wwwroot\lib\microsoft\signalr\dist\esm\websockettransport.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\xhrhttpclient.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\xhrhttpclient.js
+wwwroot\lib\microsoft\signalr\dist\esm\xhrhttpclient.js.map
+wwwroot\lib\microsoft\signalr\dist\webworker\signalr.js
+wwwroot\lib\microsoft\signalr\dist\webworker\signalr.js.map
+wwwroot\lib\microsoft\signalr\dist\webworker\signalr.min.js
+wwwroot\lib\microsoft\signalr\dist\webworker\signalr.min.js.map
+wwwroot\lib\microsoft\signalr\package.json
+wwwroot\lib\microsoft\signalr\readme.md
+wwwroot\lib\microsoft\signalr\src\abortcontroller.ts
+wwwroot\lib\microsoft\signalr\src\browser-index.ts
+wwwroot\lib\microsoft\signalr\src\defaulthttpclient.ts
+wwwroot\lib\microsoft\signalr\src\defaultreconnectpolicy.ts
+wwwroot\lib\microsoft\signalr\src\errors.ts
+wwwroot\lib\microsoft\signalr\src\fetchhttpclient.ts
+wwwroot\lib\microsoft\signalr\src\handshakeprotocol.ts
+wwwroot\lib\microsoft\signalr\src\headernames.ts
+wwwroot\lib\microsoft\signalr\src\httpclient.ts
+wwwroot\lib\microsoft\signalr\src\httpconnection.ts
+wwwroot\lib\microsoft\signalr\src\hubconnection.ts
+wwwroot\lib\microsoft\signalr\src\hubconnectionbuilder.ts
+wwwroot\lib\microsoft\signalr\src\iconnection.ts
+wwwroot\lib\microsoft\signalr\src\ihttpconnectionoptions.ts
+wwwroot\lib\microsoft\signalr\src\ihubprotocol.ts
+wwwroot\lib\microsoft\signalr\src\ilogger.ts
+wwwroot\lib\microsoft\signalr\src\index.ts
+wwwroot\lib\microsoft\signalr\src\iretrypolicy.ts
+wwwroot\lib\microsoft\signalr\src\itransport.ts
+wwwroot\lib\microsoft\signalr\src\jsonhubprotocol.ts
+wwwroot\lib\microsoft\signalr\src\loggers.ts
+wwwroot\lib\microsoft\signalr\src\longpollingtransport.ts
+wwwroot\lib\microsoft\signalr\src\polyfills.ts
+wwwroot\lib\microsoft\signalr\src\serversenteventstransport.ts
+wwwroot\lib\microsoft\signalr\src\stream.ts
+wwwroot\lib\microsoft\signalr\src\subject.ts
+wwwroot\lib\microsoft\signalr\src\textmessageformat.ts
+wwwroot\lib\microsoft\signalr\src\third-party-notices.txt
+wwwroot\lib\microsoft\signalr\src\utils.ts
+wwwroot\lib\microsoft\signalr\src\websockettransport.ts
+wwwroot\lib\microsoft\signalr\src\xhrhttpclient.ts

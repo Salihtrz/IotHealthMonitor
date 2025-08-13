@@ -1,0 +1,273 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DoctorManagementPanelWebUI
+build_property.RootNamespace = DoctorManagementPanelWebUI
+build_property.ProjectDir = C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\C# Dersleri\DoctorManagementPanel\DoctorManagementPanelWebUI
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/About/DoctorAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcRG9jdG9yQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/About/PatientAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcUGF0aWVudEFib3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/AdminAbout/AboutList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BYm91dFxBYm91dExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/AdminAbout/CreateAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BYm91dFxDcmVhdGVBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/AdminAbout/UpdateAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BYm91dFxVcGRhdGVBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/AdminBranch/BranchList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5CcmFuY2hcQnJhbmNoTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/AdminBranch/CreateBranch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5CcmFuY2hcQ3JlYXRlQnJhbmNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/AdminBranch/UpdateBranch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5CcmFuY2hcVXBkYXRlQnJhbmNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/AdminDevice/CreateDevice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5EZXZpY2VcQ3JlYXRlRGV2aWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/AdminDevice/DeviceList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5EZXZpY2VcRGV2aWNlTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/AdminDevice/UpdateDevice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5EZXZpY2VcVXBkYXRlRGV2aWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/AdminDoctor/ApprovedDoctors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Eb2N0b3JcQXBwcm92ZWREb2N0b3JzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/AdminDoctor/DoctorsAwaitingApproval.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Eb2N0b3JcRG9jdG9yc0F3YWl0aW5nQXBwcm92YWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/AdminDoctor/RejectedDoctors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Eb2N0b3JcUmVqZWN0ZWREb2N0b3JzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/AdminLayout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5MYXlvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/AdminPatient/CreatePatient.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5QYXRpZW50XENyZWF0ZVBhdGllbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/AdminPatient/PatientList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5QYXRpZW50XFBhdGllbnRMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/AdminPatient/UpdatePatient.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5QYXRpZW50XFVwZGF0ZVBhdGllbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/DoctorLayout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yTGF5b3V0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/Doctor/Charts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXENoYXJ0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/Doctor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/Doctor/PatientList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXFBhdGllbnRMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/Error/NotFound404Page.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JcTm90Rm91bmQ0MDRQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/Layout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/Login/AdminLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQWRtaW5Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/Login/DoctorLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cRG9jdG9yTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/Login/PatientRelativeLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cUGF0aWVudFJlbGF0aXZlTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/Patient/Charts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxDaGFydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/Patient/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/Register/AdminRegister.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcQWRtaW5SZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/Register/DoctorRegister.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcRG9jdG9yUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/Register/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/Register/PatientRelativeRegister.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcUGF0aWVudFJlbGF0aXZlUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/Shared/Components/_AdminLayoutFooterComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0FkbWluTGF5b3V0Rm9vdGVyQ29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/Shared/Components/_AdminLayoutHeadComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0FkbWluTGF5b3V0SGVhZENvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/Shared/Components/_AdminLayoutNavbarComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0FkbWluTGF5b3V0TmF2YmFyQ29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/Shared/Components/_AdminLayoutScriptComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0FkbWluTGF5b3V0U2NyaXB0Q29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/Shared/Components/_AdminLayoutSidebarComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0FkbWluTGF5b3V0U2lkZWJhckNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/Shared/Components/_DoctorLayoutFooterComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RvY3RvckxheW91dEZvb3RlckNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/Shared/Components/_DoctorLayoutHeadComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RvY3RvckxheW91dEhlYWRDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/Shared/Components/_DoctorLayoutNavbarComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RvY3RvckxheW91dE5hdmJhckNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/Shared/Components/_DoctorLayoutScriptComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RvY3RvckxheW91dFNjcmlwdENvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/Shared/Components/_DoctorLayoutSidebarComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RvY3RvckxheW91dFNpZGViYXJDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/Shared/Components/_FormHeadComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Zvcm1IZWFkQ29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/Shared/Components/_LayoutFooterComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dEZvb3RlckNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/Shared/Components/_LayoutHeadComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dEhlYWRDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/Shared/Components/_LayoutNavbarComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dE5hdmJhckNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/Shared/Components/_LayoutScriptComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dFNjcmlwdENvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/Shared/Components/_LayoutSidebarComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dFNpZGViYXJDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/Shared/Components/_LineChartHeadComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xpbmVDaGFydEhlYWRDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/Shared/Components/_LineChartScriptComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xpbmVDaGFydFNjcmlwdENvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/Shared/Components/_TableHeadComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1RhYmxlSGVhZENvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/Shared/Components/_TableScriptComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1RhYmxlU2NyaXB0Q29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/muazc/OneDrive/Masaüstü/Proje ve Çalışmalarım/C\# Dersleri/DoctorManagementPanel/DoctorManagementPanelWebUI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-akgm31aab7

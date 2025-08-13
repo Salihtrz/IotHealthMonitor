@@ -1,0 +1,134 @@
+﻿@model AvgPulseAvgSpO2PatientViewModel
+@{
+    Layout = "~/Views/Layout/Index.cshtml";
+}
+@await Component.InvokeAsync("_LayoutHeadComponentPartial")
+@await Component.InvokeAsync("_LineChartHeadComponentPartial")
+<script src="~/lib/microsoft/signalr/dist/browser/signalr.min.js"></script>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>
+<!DOCTYPE html>
+<html lang="en">
+<body class="sidebar-mini">
+    <script type="text/javascript">
+
+        $(document).ready(() => {
+            var id = @ViewBag.DeviceID;
+
+            var connection = new signalR.HubConnectionBuilder().withUrl("https://localhost:7254/SignalRHub").build();
+            $("#connstatus").text(connection.state);
+
+            connection.start().then(() => {
+                $("#connstatus").text(connection.state);
+
+                setInterval(() => {
+                    connection.invoke("SendStatistic2", id);
+                }, 3000);
+            }).catch((err) => { console.log(err) });
+
+            connection.on("ReceiveGetDeviceWithAveragePulseByDeviceID", (value) => {
+                    $("#averagePulseValue").text(value);
+            });
+            connection.on("ReceiveGetDeviceWithAverageSpO2ByDeviceID", (value) => {
+                    $("#averageSpO2Value").text(value);
+            });
+            connection.on("ReceiveGetDeviceWithHighestPulseByDeviceID", (value) => {
+                    $("#maxPulseValue").text(value);
+            });
+            connection.on("ReceiveGetDeviceWithLowestPulseByDeviceID", (value) => {
+                    $("#minPulseValue").text(value);
+            });
+        });
+    </script>
+    <div class="wrapper">
+        <div class="content-wrapper">
+            <!-- Content Header (Page header) -->
+            <section class="content-header">
+                <h1>Hoşgeldiniz @ViewBag.RelativeName @ViewBag.RelativeSurname</h1>
+                <ol class="breadcrumb">
+                    <li><a href="#"><i class="fa fa-home"></i> Ana Sayfa</a></li>
+                    <li class="active"><i class="fa fa-bullseye"></i> @ViewBag.RelativeName @ViewBag.RelativeSurname</li>
+                    <li class="active"><i class="fa fa-credit-card"></i> Hasta Bilgileri</li>
+                </ol>
+            </section>
+
+            <!-- Main content -->
+            <section class="content container-fluid">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="chart-box">
+                            <div class="m-bot-3 over-hidden">
+                                <h4 class="pull-left">Ankara Devlet Hastanesi</h4>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-2 col-xs-6 m-t-10">
+                                    <h5>Ankara Devlet Hastanesi</h5>
+                                    <ul class="list-unstyled m-bot-3">
+                                        <li>Muayene Tarihi: <span class="text-semibold">Nisan 15, 2017</span></li>
+                                        <li>Güncel Tarih: <span class="text-semibold">@DateTime.Now.ToString("dd.MM.yyyy")</span></li>
+                                    </ul>
+                                    <h5>Yakını olduğunuz @Model.Patients.PatientName @Model.Patients.PatientSurname</h5>
+                                    <address>
+                                        @Model.Patients.City @Model.Patients.District<br>
+                                        @Model.Patients.Neighborhood @Model.Patients.Street @Model.Patients.Number<br><br>
+                                        @Model.Patients.Phone<br>
+                                    </address>
+
+                                </div>
+                                <div class="col-md-10 text-right">
+                                    <div class="col-md-3 pull-right m-bot-2 text-right"><img src="~/Dashboard/html/dist/img/img3.jpg" class="img-circle img-responsive" alt="User Image"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="content container-fluid" style="min-height:auto;">
+                <div class="row">
+                    <div class="col-lg-3 col-xs-6">
+                        <div class="media-box">
+                            <div class="media-icon pull-left"><i class="icon-bargraph"></i> </div>
+                            <div class="media-info">
+                                <h5>Ortalama Nabız Değeri</h5>
+                                <h3 id="averagePulseValue"></h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-xs-6">
+                        <div class="media-box bg-sea">
+                            <div class="media-icon pull-left"><i class="icon-wallet"></i> </div>
+                            <div class="media-info">
+                                <h5>Ortalama SpO2 Değeri</h5>
+                                <h3 id="averageSpO2Value"></h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-xs-6">
+                        <div class="media-box bg-blue">
+                            <div class="media-icon pull-left"><i class="icon-basket"></i> </div>
+                            <div class="media-info">
+                                <h5>En Yüksek Nabız Değeri</h5>
+                                <h3 id="maxPulseValue"></h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-xs-6">
+                        <div class="media-box bg-green">
+                            <div class="media-icon pull-left"><i class="icon-layers"></i> </div>
+                            <div class="media-info">
+                                <h5>En Düşük Nabız Değeri</h5>
+                                <h3 id="minPulseValue"></h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- content -->
+        </div>
+    </div>
+    @await Component.InvokeAsync("_LayoutScriptComponentPartial")
+    @await Component.InvokeAsync("_LineChartScriptComponentPartial")
+</body>
+</html>

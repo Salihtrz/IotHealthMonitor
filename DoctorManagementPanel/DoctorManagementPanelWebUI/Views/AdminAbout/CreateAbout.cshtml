@@ -1,0 +1,59 @@
+﻿@model CreateAboutDto
+@{
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+@await Component.InvokeAsync("_AdminLayoutHeadComponentPartial")
+@await Component.InvokeAsync("_LineChartHeadComponentPartial")
+<!DOCTYPE html>
+<html lang="en">
+<body class="sidebar-mini">
+    <div class="wrapper">
+        <div class="content-wrapper">
+            <!-- Content Header (Page header) -->
+            <section class="content-header">
+                <h1>Hakkımda Yazısı Ekleme Formu</h1>
+                <ol class="breadcrumb">
+                    <li><a href="#"><i class="fa fa-home"></i> Ana Sayfa</a></li>
+                    <li class="active"><i class="fa fa-envelope-o"></i> Form</li>
+                    <li class="active"><i class="fa fa-envelope"></i> Hakkımda Yazısı Ekleme Formu</li>
+                </ol>
+            </section>
+
+            <!-- Main content -->
+            <section class="content container-fluid">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="chart-box">
+                            <h4>Hakkımda Yazısı Bilgileri</h4>
+                            <div class="row">
+                                <form method="post">
+                                    <div class="col-md-12">
+                                        <div class="form-group has-feedback" style="width:300px">
+                                            <label class="control-label">Başlık</label>
+                                            <input type="text" asp-for="Title" class="form-control" placeholder="Başlık">
+                                            <span class="fa fa-user form-control-feedback" aria-hidden="true"></span>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="form-group has-feedback">
+                                            <label class="control-label">Açıklama</label>
+                                            <textarea rows="5" asp-for="Description" class="form-control" placeholder="Açıklamayı ekleyin..."></textarea>
+                                            <span class="fa fa-user form-control-feedback" aria-hidden="true"></span>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <button type="submit" class="btn btn-success">Kaydet</button>
+                                        <a href="/AdminAbout/AboutList/" class="btn btn-primary">İptal</a>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- content -->
+        </div>
+    </div>
+    @await Component.InvokeAsync("_AdminLayoutScriptComponentPartial")
+</body>
+</html>

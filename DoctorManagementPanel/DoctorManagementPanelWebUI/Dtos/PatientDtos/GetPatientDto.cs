@@ -1,0 +1,24 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DoctorManagementPanelWebUI.Dtos.PatientDtos
+{
+    public class GetPatientDto
+    {
+        public int PatientID { get; set; }
+        public string? PatientName { get; set; }
+        public string? PatientSurname { get; set; }
+        public string? Phone { get; set; }
+        public DateTime? InspectionDate { get; set; }
+        public string? City { get; set; }
+        public string? District { get; set; }
+        public string? Neighborhood { get; set; }
+        public string? Street { get; set; }
+        public string? Number { get; set; }
+        public string? Imageurl { get; set; }
+        public bool? Status { get; set; }
+    }
+}

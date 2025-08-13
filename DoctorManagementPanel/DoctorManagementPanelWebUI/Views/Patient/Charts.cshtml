@@ -1,0 +1,210 @@
+﻿@model DeviceMeasurementDto
+@{
+    Layout = "~/Views/Layout/Index.cshtml";
+}
+@await Component.InvokeAsync("_LayoutHeadComponentPartial")
+@await Component.InvokeAsync("_LineChartHeadComponentPartial")
+
+<script src="~/lib/microsoft/signalr/dist/browser/signalr.min.js"></script>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>
+
+<!DOCTYPE html>
+<html lang="en">
+<body class="sidebar-mini">
+    <script type="text/javascript">
+        let pulseChart, spo2Chart;
+
+        $(document).ready(() => {
+            var id = @ViewBag.DeviceID;
+
+            var connection = new signalR.HubConnectionBuilder().withUrl("https://localhost:7254/SignalRHub").build();
+            $("#connstatus").text(connection.state);
+
+            connection.start().then(() => {
+                $("#connstatus").text(connection.state);
+
+                setInterval(() => {
+                    connection.invoke("SendStatistic2", id).catch(err => console.error(err));
+                }, 3000);
+            }).catch((err) => { console.log(err) });
+
+            setInterval(() => {
+                if (pulseChart) pulseChart.redraw();
+                if (spo2Chart) spo2Chart.redraw();
+            }, 1000);
+
+            connection.on("ReceiveGetDeviceWithLastMeasurementsByDeviceID", (value) => {
+                console.log("SignalR veri geldi:", value);
+
+                // Veritabanından gelen zamanı timestamp'e çevir
+                                        const now = new Date();
+        const offsetMs = now.getTimezoneOffset() * 60000;
+        const correctedNow = now.getTime() - offsetMs; // UTC+0 zamanına çekildi
+
+                if (!pulseChart && !spo2Chart) {
+                    if (!value) {
+                        console.error("Veri null veya undefined");
+                        return;
+                    }
+
+                    const fullName = (value.patientName + " " + value.patientSurname).trim() || "Bilinmiyor";
+
+                    pulseChart = Highcharts.chart('pulseStatistics', {
+                        chart: {
+                            type: 'spline',
+                            animation: false,
+                            marginRight: 10
+                        },
+                        title: {
+                            text: 'Anlık Nabız Değerleri'
+                        },
+                        xAxis: {
+                            type: 'datetime',
+                            tickPixelInterval: 150,
+                            title: {
+                                text: 'Zaman'
+                            }
+                        },
+                        yAxis: {
+                            title: {
+                                text: 'Nabız'
+                            },
+                            min: 0,
+                            max: 200,
+                            tickInterval: 20
+                        },
+                        tooltip: {
+                            shared: true,
+                            crosshairs: true
+                        },
+                        series: [{
+                            name: fullName,
+                            data: []
+                        }]
+                    });
+
+                    spo2Chart = Highcharts.chart('spo2Statistics', {
+                        chart: {
+                            type: 'spline',
+                            animation: false,
+                            marginRight: 10
+                        },
+                        title: {
+                            text: 'Anlık SpO2 Değerleri'
+                        },
+                        xAxis: {
+                            type: 'datetime',
+                            tickPixelInterval: 150,
+                            title: {
+                                text: 'Zaman'
+                            }
+                        },
+                        yAxis: {
+                            title: {
+                                text: 'SpO2 (%)'
+                            },
+                            min: 0,
+                            max: 100,
+                            tickInterval: 10
+                        },
+                        tooltip: {
+                            shared: true,
+                            crosshairs: true
+                        },
+                        series: [{
+                            name: fullName,
+                            data: []
+                        }]
+                    });
+                }
+
+                let bpm = parseFloat(value.lastPulseValue);
+                let spo2 = parseFloat(value.lastSpO2Value);
+
+                if (!isNaN(bpm)) {
+                    pulseChart.series[0].addPoint([correctedNow, bpm], false, pulseChart.series[0].data.length >= 20);
+                }
+                if (!isNaN(spo2)) {
+                    spo2Chart.series[0].addPoint([correctedNow, spo2], false, spo2Chart.series[0].data.length >= 20);
+                }
+            });
+
+            // Tarih filtreleme
+            $("#applyDateFilter").click(() => {
+                let startVal = $("#startDateTime").val();
+                let endVal = $("#endDateTime").val();
+
+                if (!startVal || !endVal) {
+                    alert("Lütfen hem başlangıç hem bitiş zamanını seçiniz.");
+                    return;
+                }
+
+                let startTime = new Date(startVal).getTime();
+                let endTime = new Date(endVal).getTime();
+
+                if (startTime >= endTime) {
+                    alert("Başlangıç zamanı bitiş zamanından önce olmalı.");
+                    return;
+                }
+
+                if (pulseChart) pulseChart.xAxis[0].setExtremes(startTime, endTime);
+                if (spo2Chart) spo2Chart.xAxis[0].setExtremes(startTime, endTime);
+            });
+        });
+    </script>
+    <div class="wrapper">
+        <div class="content-wrapper">
+            <!-- Content Header -->
+            <section class="content-header">
+                <h1>Grafikler</h1>
+                <ol class="breadcrumb">
+                    <li><a href="#"><i class="fa fa-home"></i> Anasayfa</a></li>
+                    <li class="active"><i class="fa fa-envelope-o"></i> Grafikler</li>
+                    <li class="active"><i class="fa fa-line-chart"></i> Nabız ve SpO2 Değerleri</li>
+                </ol>
+            </section>
+
+            <!-- Main Content -->
+            <section class="content container-fluid">
+                <div class="row">
+                    <div class="container my-3" style="margin-bottom:10px">
+                        <div class="row align-items-center gy-2">
+                            <div class="col-sm-12 col-md-4">
+                                <label for="startDateTime" class="form-label fw-semibold">Başlangıç Zamanı:</label>
+                                <input type="datetime-local" id="startDateTime" class="form-control" />
+                            </div>
+                            <div class="col-sm-12 col-md-4">
+                                <label for="endDateTime" class="form-label fw-semibold">Bitiş Zamanı:</label>
+                                <input type="datetime-local" id="endDateTime" class="form-control" />
+                            </div>
+                            <div class="col-sm-12 col-md-4" style="width:200px;place-items:center;justify-content:center;height:80px;display:flex;">
+                                <button id="applyDateFilter" class="btn btn-primary w-100">Filtre Uygula</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <div class="chart-box">
+                            <div class="chart">
+                                <div id="pulseStatistics" style="height: 400px; min-width: 310px"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <div class="chart-box">
+                            <div class="chart">
+                                <div id="spo2Statistics" style="height: 400px; min-width: 310px; margin-top: 30px;"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+
+    @await Component.InvokeAsync("_LayoutScriptComponentPartial")
+    @await Component.InvokeAsync("_LineChartScriptComponentPartial")
+</body>
+</html>

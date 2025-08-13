@@ -1,0 +1,76 @@
+﻿@model List<ResultDoctorDto>
+@{
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+    int count = 0;
+}
+@await Component.InvokeAsync("_AdminLayoutHeadComponentPartial")
+@await Component.InvokeAsync("_TableHeadComponentPartial")
+<!DOCTYPE html>
+<html lang="en">
+<body class="sidebar-mini">
+    <div class="wrapper">
+        <div class="content-wrapper">
+            <!-- Content Header (Page header) -->
+            <section class="content-header">
+                <h1>Kayıtlı Doktorlar</h1>
+                <ol class="breadcrumb">
+                    <li><a href="#"><i class="fa fa-home"></i> Anasayfa</a></li>
+                    <li class="active"><i class="fa fa-table"></i> Tablolar</li>
+                    <li class="active"><i class="fa fa-user"></i> Kayıtlı Doktorlar</li>
+                </ol>
+            </section>
+
+            <!-- Main content -->
+            <section class="content container-fluid">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="chart-box">
+                            <div id="example_filter" class="dataTables_filter pull-right">
+                                <input class="form-control" id="placeholderInput" placeholder="Aranacak Kelime..." type="text">
+                            </div>
+                            <table class="table table-responsive">
+                                <thead>
+                                    <tr>
+                                        <th class="sortable">#</th>
+                                        <th class="sortable">Ünvan</th>
+                                        <th class="sortable">AdSoyad</th>
+                                        <th class="sortable">Departman</th>
+                                        <th class="sortable">Durum</th>
+                                        <th>Onay Ver</th>
+                                        <th>Reddet</th>
+                                    </tr>
+                                </thead>
+                                @foreach (var item in Model)
+                                {
+                                    count++;
+                                    <tr>
+                                        <td class="text-truncate" style="vertical-align:middle">@count</td>
+                                        <td class="text-truncate" style="vertical-align:middle">@item.Degree</td>
+                                        <td class="text-truncate" style="vertical-align:middle">@item.DoctorName @item.DoctorSurname</td>
+                                        <td class="text-truncate" style="vertical-align:middle">@item.BranchName</td>
+                                        <td class="text-truncate" style="vertical-align:middle"><span class="lable-tag tag-warning">Onay Bekliyor</span></td>
+                                        <td class="text-truncate" style="vertical-align:middle"><a href="/AdminDoctor/changeDoctorStatusToTrue/@item.DoctorID" class="btn btn-primary">Onay Ver</a></td>
+                                        <td class="text-truncate" style="vertical-align:middle"><a href="/AdminDoctor/changeDoctorStatusToFalse/@item.DoctorID" class="btn btn-danger">Reddet</a></td>
+                                    </tr>
+                                }
+                            </table>
+                            <ul class="pagination m-bot-0">
+                                <li> <a href="#" aria-label="Previous"> <span aria-hidden="true">«</span> </a> </li>
+                                <li><a href="#">1</a></li>
+                                <li><a href="#">2</a></li>
+                                <li><a href="#">3</a></li>
+                                <li><a href="#">4</a></li>
+                                <li><a href="#">5</a></li>
+                                <li> <a href="#" aria-label="Next"> <span aria-hidden="true">»</span> </a> </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- content -->
+        </div>
+    </div>
+    @await Component.InvokeAsync("_AdminLayoutScriptComponentPartial")
+    @await Component.InvokeAsync("_TableScriptComponentPartial")
+</body>
+</html>

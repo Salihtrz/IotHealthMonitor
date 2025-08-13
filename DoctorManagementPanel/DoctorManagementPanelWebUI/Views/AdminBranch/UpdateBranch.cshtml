@@ -1,0 +1,53 @@
+﻿@model UpdateBranchDto
+@{
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+@await Component.InvokeAsync("_AdminLayoutHeadComponentPartial")
+@await Component.InvokeAsync("_LineChartHeadComponentPartial")
+<!DOCTYPE html>
+<html lang="en">
+<body class="sidebar-mini">
+    <div class="wrapper">
+        <div class="content-wrapper">
+            <!-- Content Header (Page header) -->
+            <section class="content-header">
+                <h1>Dal Güncelleme Formu</h1>
+                <ol class="breadcrumb">
+                    <li><a href="#"><i class="fa fa-home"></i> Ana Sayfa</a></li>
+                    <li class="active"><i class="fa fa-envelope-o"></i> Form</li>
+                    <li class="active"><i class="fa fa-envelope"></i> Dal Güncelleme Formu</li>
+                </ol>
+            </section>
+
+            <!-- Main content -->
+            <section class="content container-fluid">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="chart-box">
+                            <h4>Dal Bilgileri</h4>
+                            <div class="row">
+                                <form method="post">
+                                    <input type="hidden" asp-for="BranchID" />
+                                    <div class="col-md-6">
+                                        <div class="form-group has-feedback">
+                                            <label class="control-label">Ad</label>
+                                            <input type="text" asp-for="BranchName" class="form-control" placeholder="Ad">
+                                            <span class="fa fa-user form-control-feedback" aria-hidden="true"></span>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <button type="submit" class="btn btn-success">Güncelle</button>
+                                        <a href="/AdminBranch/BranchList/" class="btn btn-primary">İptal</a>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- content -->
+        </div>
+    </div>
+    @await Component.InvokeAsync("_AdminLayoutScriptComponentPartial")
+</body>
+</html>

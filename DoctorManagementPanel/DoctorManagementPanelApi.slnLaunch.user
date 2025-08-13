@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "All",
+    "Projects": [
+      {
+        "Path": "DoctorManagementPanelApi\\DoctorManagementPanelApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "DoctorManagementPanelWebUI\\DoctorManagementPanelWebUI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

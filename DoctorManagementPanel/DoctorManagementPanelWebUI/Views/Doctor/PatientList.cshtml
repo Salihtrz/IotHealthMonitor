@@ -1,0 +1,185 @@
+﻿@model List<DeviceMeasurementDto>
+@{
+    Layout = "~/Views/DoctorLayout/Index.cshtml";
+}
+@await Component.InvokeAsync("_DoctorLayoutHeadComponentPartial")
+@await Component.InvokeAsync("_TableHeadComponentPartial")
+<script src="~/lib/microsoft/signalr/dist/browser/signalr.min.js"></script>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>
+<!DOCTYPE html>
+<html lang="en">
+<body class="sidebar-mini">
+    <script type="text/javascript">
+        $(document).ready(() => {
+            var Status = "@ViewBag.Status".toLowerCase();
+            if (Status === "true") {
+                var connection = new signalR.HubConnectionBuilder().withUrl("https://localhost:7254/SignalRHub").build();
+                $("#connstatus").text(connection.state);
+
+                connection.start().then(() => {
+                    $("#connstatus").text(connection.state);
+                    setInterval(() => {
+                        connection.invoke("SendStatistic");
+                    }, 1000);
+                }).catch((err) => { console.log(err); });
+
+                let fullData = [];
+                let filteredData = []; // Arama sonrası kalan veri burada
+                let itemsPerPage = 1;
+                let currentPage = 1;
+
+                // Tablo çizme fonksiyonu
+                function renderTable(pageNumber) {
+                    let start = (pageNumber - 1) * itemsPerPage;
+                    let paginatedItems = filteredData.slice(start, start + itemsPerPage);
+
+                    let tablehtml = `<table class="table table-responsive">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Ad</th>
+                                <th>Soyad</th>
+                                <th>Son Nabız Değeri</th>
+                                <th>Son SpO2 Değeri</th>
+                            </tr>
+                        </thead>
+                        <tbody>`;
+
+                    $.each(paginatedItems, (index, item) => {
+                        tablehtml += `<tr>
+                            <td>${start + index + 1}</td>
+                            <td>${item.patientName}</td>
+                            <td>${item.patientSurname}</td>
+                            <td>${item.lastPulseValue}</td>
+                            <td>${item.lastSpO2Value}</td>
+                        </tr>`;
+                    });
+
+                    tablehtml += "</tbody></table>";
+                    $("#patientlist").html(tablehtml);
+                }
+
+                // Sayfalama çizme fonksiyonu
+                function renderPagination(totalItems, currentPage) {
+                    let totalPages = Math.ceil(totalItems / itemsPerPage);
+                    let paginationHtml = '<ul class="pagination justify-content-center">';
+
+                    // Sol ok
+                    if (currentPage > 1) {
+                        paginationHtml += `<li class="page-item"><a href="#" class="page-link" data-page="${currentPage - 1}">‹</a></li>`;
+                    }
+
+                    let startPage = Math.max(1, currentPage - 1);
+                    let endPage = Math.min(totalPages, startPage + 2);
+
+                    if (endPage - startPage < 2) {
+                        startPage = Math.max(1, endPage - 2);
+                    }
+
+                    for (let i = startPage; i <= endPage; i++) {
+                        let activeClass = i === currentPage ? "active" : "";
+                        paginationHtml += `<li class="page-item ${activeClass}"><a href="#" class="page-link" data-page="${i}">${i}</a></li>`;
+                    }
+
+                    // Sağ ok
+                    if (currentPage < totalPages) {
+                        paginationHtml += `<li class="page-item"><a href="#" class="page-link" data-page="${currentPage + 1}">›</a></li>`;
+                    }
+
+                    paginationHtml += '</ul>';
+                    $("#pagination").html(paginationHtml);
+                }
+
+                // Sayfa link tıklama
+                $(document).on("click", ".page-link", function (e) {
+                    e.preventDefault();
+                    let page = $(this).data("page");
+                    currentPage = page;
+                    renderTable(currentPage);
+                    renderPagination(filteredData.length, currentPage);
+                });
+
+                // Arama input olayını dinle
+                $("#placeholderInput").on("input", function () {
+                    let searchTerm = $(this).val().toLowerCase();
+
+                    // Filtrele: Hasta adı veya soyadı içeriyorsa göster
+                    filteredData = fullData.filter(item =>
+                        (item.patientName && item.patientName.toLowerCase().includes(searchTerm)) ||
+                        (item.patientSurname && item.patientSurname.toLowerCase().includes(searchTerm))
+                    );
+
+                    currentPage = 1; // Arama sonrası sayfa 1 e dön
+                    renderTable(currentPage);
+                    renderPagination(filteredData.length, currentPage);
+                });
+
+                // SignalR verisi geldiğinde
+                        connection.on("ReceiveGetDeviceWithLastMeasurements", (value) => {
+            fullData = value;
+
+            // Arama kutusundaki mevcut değer
+            let searchTerm = $("#placeholderInput").val().toLowerCase();
+
+            if (searchTerm) {
+                // Arama aktifse filtreli listeyi güncelle
+                filteredData = fullData.filter(item =>
+                    (item.patientName && item.patientName.toLowerCase().includes(searchTerm)) ||
+                    (item.patientSurname && item.patientSurname.toLowerCase().includes(searchTerm))
+                );
+            } else {
+                // Arama boşsa tüm veriyi göster
+                filteredData = fullData;
+            }
+
+            renderTable(currentPage);
+            renderPagination(filteredData.length, currentPage);
+        });
+
+            }
+        });
+    </script>
+
+
+    <div class="wrapper">
+        <div class="content-wrapper">
+            <!-- Content Header (Page header) -->
+            <section class="content-header">
+                <h1>Kayıtlı Hastalar</h1>
+                <ol class="breadcrumb">
+                    <li><a href="#"><i class="fa fa-home"></i> Anasayfa</a></li>
+                    <li class="active"><i class="fa fa-table"></i> Tablolar</li>
+                    <li class="active"><i class="fa fa-user"></i> Kayıtlı Hastalar</li>
+                </ol>
+            </section>
+
+            <!-- Main content -->
+            @if(ViewBag.Status == true){
+                <section class="content container-fluid">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="chart-box">
+                                <div id="example_filter" class="dataTables_filter pull-right">
+                                    <input class="form-control" id="placeholderInput" placeholder="Aranacak Kelime..." type="text" />
+                                </div>
+                                <div id="patientlist"></div>
+                                <div id="pagination" class="text-center mt-3"></div>
+
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            }
+            else {
+                <h1>@ViewBag.Message</h1>
+            }
+            <!-- content -->
+        </div>
+    </div>
+    @await Component.InvokeAsync("_DoctorLayoutScriptComponentPartial")
+    @await Component.InvokeAsync("_TableScriptComponentPartial")
+</body>
+</html>
