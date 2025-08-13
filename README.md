@@ -1,7 +1,7 @@
 <div>
   <h1> Iot Health Monitor</h1>
   <h3> Projenin Temel Amacı</h3>
-  <p> Çöp kutularının fazla atık ile dolup taşmasını ve kötü koku oluşmasını engellemek, çevreyi temiz tutarak doğayı korumak bu projenin temel amacıdır.</p>
+  <p> Bu projenin amacı, nabız ve SpO2 değerlerini sensörler aracılığıyla takip ederek verileri bilgisayara aktaran, saklayan ve görsel olarak sunan bir sistem geliştirmektir. Değerler belirlenen sınırların             dışına çıktığında, tanımlı kişilere otomatik uyarı gönderilmektedir. Sistem, hem bireylerin sağlıklarını takip etmelerine hem de doktorların geçmiş verilere dayalı değerlendirme yapmalarına yardımcı olmayı        hedeflemektedir. Ev veya sağlık merkezlerinde kolayca kullanılabilir. </p>
   <p> Bu projede, bireylerin nabız ve SpO2 (kan oksijen doygunluğu) değerlerini takip eden, verileri kaydedip geçmişe yönelik anlamlı veriler çıkarılabilmesi
     için verilerin grafiksel gösterimi ile bir sağlık izleme sistemi geliştirdik. Sensörlerden alınan veriler, ESP32 mikrodenetleyicisi aracılığıyla MQTT 
     protokolü kullanılarak bilgisayara ilettik. Node-RED platformu ile alınan veriler işlenerek MSSQL veritabanında saklanmakta, geçmişe yönelik grafiksel analizlerle
