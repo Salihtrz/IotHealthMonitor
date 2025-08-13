@@ -7,14 +7,12 @@
 #define OLED_RESET -1
 Adafruit_SSD1306 display(128, 64, &Wire, OLED_RESET);
 
-// Wi-Fi Ayarları
-//const char* ssid = "zzzz";
-//const char* password = "357732Tolga";
-const char* ssid = "TP-Link_BAD9";
-const char* password = "69724374";
+// Wi-Fi Settings
+const char* ssid = "";
+const char* password = "";
 
 // MQTT Broker (Sanal makinenin IP’si – kendi IP adresinle değiştir)
-const char* mqtt_server = "192.168.1.116";  // Örnek IP
+const char* mqtt_server = "";  // MQTT Broker IP
 WiFiClient espClient;
 PubSubClient client(espClient);
 
