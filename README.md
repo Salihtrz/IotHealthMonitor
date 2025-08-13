@@ -45,6 +45,13 @@
     <li>Sağlık Kuruluşları ve Küçük Klinikler</li>
     <li>Engelli Bireylerin Yakınları</li>
   </ul>
+  <h3> Kullanılan Kütüphaneler</h3>
+  <ul>
+    <li><img src="/Proje Resimleri/k1.png" /></li>
+    <li><img src="/Proje Resimleri/k2.png" /></li>
+    <li><img src="/Proje Resimleri/k3.png" /></li>
+    <li><img src="/Proje Resimleri/k4.png" /></li>
+  </ul>
   <div>
     <h2> Projeye Ait Resimler</h2>
     <img src="/Proje Resimleri/Buzzer.png" />
@@ -72,14 +79,6 @@
     <img src="/Proje Resimleri/esp32.png" />
     <br/>
     <img src="/Proje Resimleri/esp8266.png" />
-    <br/>
-    <img src="/Proje Resimleri/k1.png" />
-    <br/>
-    <img src="/Proje Resimleri/k2.png" />
-    <br/>
-    <img src="/Proje Resimleri/k3.png" />
-    <br/>
-    <img src="/Proje Resimleri/k4.png" />
     <br/>
     <img src="/Proje Resimleri/oled1.png" />
     <br/>
