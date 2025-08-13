@@ -9,14 +9,12 @@
 #define I2C_SDA 21
 #define I2C_SCL 22
 
-// Wi-Fi Ayarları
-const char* ssid = "zzzz";
-const char* password = "357732Tolga";
-//const char* ssid = "TP-Link_BAD9";
-//const char* password = "69724374";
+// Wi-Fi Settings
+const char* ssid = "";
+const char* password = "";
 
 // MQTT Broker (Sanal makinenin IP’si – kendi IP adresinle değiştir)
-const char* mqtt_server = "192.168.1.36";  // Örnek IP
+const char* mqtt_server = "";  // MQTT Broker IP
 
 WiFiClient espClient;
 PubSubClient client(espClient);
